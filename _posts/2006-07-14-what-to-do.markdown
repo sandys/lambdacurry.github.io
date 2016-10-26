@@ -1,0 +1,19 @@
+---
+author: sandeep
+comments: true
+date: 2006-07-14 06:08:45+00:00
+layout: post
+link: http://www.lambdacurry.com/2006/07/what-to-do/
+slug: what-to-do
+title: What to do?
+wordpress_id: 107
+categories:
+- india
+- personal
+---
+
+About [this](http://news.bbc.co.uk/2/hi/south_asia/5169332.stm) Is it time for a Munich-like respons ?
+
+Unfortunately, I think it is.
+
+del.icio.us Tags: [personal](http://del.icio.us/sss8ue/personal) [india](http://del.icio.us/sss8ue/india)
