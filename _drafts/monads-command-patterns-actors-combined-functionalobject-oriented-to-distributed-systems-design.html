@@ -1,0 +1,70 @@
+---
+layout: post
+title: Monads + Command patterns + Actors - combined functional,object oriented to
+  distributed systems design
+date: 
+type: post
+published: false
+status: draft
+categories: []
+tags: []
+meta:
+  _edit_last: '1'
+  _yoast_wpseo_sitemap-html-include: "-"
+author:
+  login: admin
+  email: sss@lambdacurry.com
+  display_name: sandeepss
+  first_name: Sandeep
+  last_name: SS
+---
+<p>http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html</p>
+<p>bind f`:: (float, string)  =&gt; (float, string)</p>
+<p>bind:: (float =&gt; (float, string)) =&gt; (float, string)</p>
+<p>bind f` g` = f` g`[0] ---&gt; (f, gs++fs)</p>
+<p>&nbsp;</p>
+<p>Consider the the functions sqrt and cbrt that compute the square root and cube root, respectively, of a real number. These are straightforward functions of type <tt>Float -&gt; Float</tt> (although sqrt will thrown an exception for negative arguments, something we'll ignore).</p>
+<p>&nbsp;</p>
+<p>Now consider a version of these functions that works with complex numbers. Every complex number, besides zero, has two square roots. Similarly, every non-zero complex number has three cube roots. So we'd like sqrt' and cbrt' to return lists of values. In other words, we'd like<br />
+<tt>sqrt',cbrt' :: Complex Float -&gt; [Complex Float]</tt></p>
+<p>We'll call these 'multivalued' functions.</p>
+<p>&nbsp;</p>
+<p>Suppose we want to find the sixth root of a real number. We can just concatenate the cube root and square root functions. In other words we can define sixthroot x = sqrt (cbrt x).</p>
+<pre style="color: #3bd925;">bind :: (Complex Double -&gt; [Complex Double]) -&gt; ([Complex Double] -&gt; [Complex Double])
+
+What is the command pattern, if not an approximation of first-class functions? :) In a FP language, you'd simply pass a function as the argument to another function. In an OOP language, you have to wrap up the function in a class, which you can instantiate and then pass that object to the other function. The effect is the same, but in OOP it's called a design pattern, and it takes a whole lot more code. And what is the abstract factory pattern, if not currying? Pass parameters to a function a bit at a time, to configure what kind of value it spits out when you finally call it.
+
+But you may have run across monads. What are they, if not a design pattern for "dealing with global state"? That's a problem that's so simple in OOP languages that no equivalent design pattern exists there.
+
+<a name="2704795"></a>A monad is an <em>"amplifier" of types</em> that <em>obeys certain rules</em> and <em>which has certain operations provided</em>.
+
+<a name="2704795"></a>First, what is an "amplifier of types"? By that I mean some system which lets you take a type and turn it into a more special type. For example, in C# consider <code>Nullable&lt;T&gt;</code>. This is an amplifier of types. It lets you take a type, say <code>int</code>, and add a new capability to that type, namely, that now it can be null when it couldn't before. - 
+
+futures are monads ?
+
+<a name="2704795"></a><a name="2704795"></a></pre>
+<p>What are the "operations"?https://bmark.us/bmark/readable/6832f8c8c8efcc</p>
+<pre><a name="2704795"></a><a name="2704795"></a></pre>
+<ol>
+<li>That there is a way to take a value of an unamplified type and turn it into a value of the amplified type.</li>
+<li>That there is a way to transform operations on the unamplified type into operations on the amplified type that obeys the rules of functional composition mentioned before</li>
+<li>that there is usually a way to get the unamplified type back out of the amplified type. (This last point isn't strictly necessary for a monad but it is frequently the case that such an operation exists.)</li>
+</ol>
+<p><strong>Actors</strong></p>
+<div>
+<p>You need to implement the Command pattern. A Command is an object that encapsulates an operation to be performed, along with its arguments, and exists independent of the Actor. If the Actor fails in a fashion that is retryable, the supervisor resubmits the Command to the Actor. If the Actor is fed a stream and processes messages, then the Actor must populate a list of Commands and record completion so it can restart at the right place. If the stream isn't rewindable, then you have to queue up ALL the commands before starting, and the Actor must record completion status on each Command, so the chain can be resubmitted on transient failure.</p>
+<p>The Command pattern can also be used to implement history and undo.</p>
+</div>
+<ol>
+<li>uppose you have a function from int to int, like our original M. You can easily make that into a function that takes an int and returns a <code>Nullable&lt;int&gt;</code> because you can just run the result through the nullable constructor. Now suppose you have this higher-order method:</li>
+<li>
+<pre><code>Nullable&lt;T&gt; Bind&lt;T&gt;(Nullable&lt;T&gt; amplified, Func&lt;T, Nullable&lt;T&gt;&gt; func)
+{
+    if (amplified == null) 
+        return null;
+    else
+        return func(amplified.Value);
+}</code></pre>
+</li>
+</ol>
+<p>http://mattberther.com/2004/09/16/using-the-command-pattern-for-undo-functionality</p>

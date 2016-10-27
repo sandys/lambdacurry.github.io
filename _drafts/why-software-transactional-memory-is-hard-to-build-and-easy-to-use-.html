@@ -1,0 +1,24 @@
+---
+layout: post
+title: Why Software Transactional Memory is hard (to build) and easy (to use)
+date: 
+type: post
+published: false
+status: draft
+categories: []
+tags: []
+meta: {}
+author:
+  login: sandeep
+  email: ''
+  display_name: sandeep
+  first_name: ''
+  last_name: ''
+---
+<p>Hmm... I always wondered why more programming languages dont implement STM. Clojure is built on STM and is the foundation for a lot of its power, especially in concurrent programs.</p>
+<p>This statement was the one that really intrigued me (with my edits for brevity):</p>
+<blockquote><p>There are two levels of concurrency. One is at the user level, where the user may want to write a function that atomically removes an element from one list and adds it to another, and one is at the interpreter level, where it needs to be able to complete all operations involved in, say, adding the element to the list, without another thread coming in and stomping on the first thread, with all the associated hazards.</p>
+<p>At the interpreter level, all you need to have is locking down the data structures</p>
+<p>At the user level, if you have an imperative language STM will cause <strong><em>uncontrolled effects </em></strong>and is therefore a known failure.</p></blockquote>
+<p>That I didnt understand.</p>
+<p>Enter <a href="http://enfranchisedmind.com/blog/posts/the-problem-with-stm-your-languages-still-suck/">this</a> article.</p>

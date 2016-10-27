@@ -1,0 +1,24 @@
+---
+layout: post
+title: Installing Windows 7 and Ubuntu 12.04 dual-boot on GPT+UEFI disks
+date: 
+type: post
+published: false
+status: draft
+categories: []
+tags: []
+meta:
+  geo_public: '0'
+author:
+  login: sandeep
+  email: ''
+  display_name: sandeep
+  first_name: ''
+  last_name: ''
+---
+<p>This is probably very important for all those who have newer laptops and are FORCED to use UEFI - plus have larger disks (&gt;2tb) that wont obey MBR boot records.</p>
+<h3>Preliminaries</h3>
+<p>if you have multiple hard disks, please remove the one that is not the install target. Windows screws up royally here. This wasted more than a day of my time.</p>
+<h3>First install linux</h3>
+<p>This is how my partition table looks like<a href="http://www.lambdacurry.com/wp-content/uploads/2013/07/screenshot-from-2013-07-18-215131.png"><img class="alignright size-medium wp-image-716" alt="partition table from gparted" src="{{ site.baseurl }}/assets/screenshot-from-2013-07-18-215131.png?w=300" width="300" height="187" /></a>. Note that the special "<strong>bios_grub</strong>" flag is important to recover linux grub after installing windows. This flag can only be set from commandline using <em><strong>sudo parted /dev/sda set 1 bios_grub on</strong></em></p>
+<p><strong>IMPORTANT: </strong>Create a 100 mb fat32 partition as the first partition. I'm not sure what is going on, but without that partition my GPT setup doesnt work.</p>

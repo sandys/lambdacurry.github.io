@@ -1,0 +1,66 @@
+---
+layout: post
+title: Studies in concurrency - from threads to Akka
+date: 
+type: post
+published: false
+status: draft
+categories: []
+tags: []
+meta:
+  _edit_last: '1'
+  _yoast_wpseo_sitemap-html-include: "-"
+author:
+  login: admin
+  email: sss@lambdacurry.com
+  display_name: sandeepss
+  first_name: Sandeep
+  last_name: SS
+---
+<p>I will primarily be basing this study on Scala - which is basically, a better Java. My tooling consists of a Scala project based on <em>sbt</em> and I use <em>sbt-idea</em> to generate Intellij Idea config files whenever my sbt build system changes (I dont have seamless interoperability). Secondly, I will be trying to honor the idiomatic use of Scala. Which means you will not see code using a lot of classes - and instead will be using implicit conversions. <a href="https://gist.github.com/sandys/6266409">https://gist.github.com/sandys/6266409</a></p>
+<h1>In the beginning there was the thread...</h1>
+<p>&nbsp;</p>
+<h1>CyclicBarrier &amp; Mapreduce</h1>
+<p>The CyclicBarrier is a higher level of concurrency construct that abstracts out the problem of communicating with two concurrent processes by enforcing queuing rules - i.e. all processes and threads read all data in a parallely,  and process data parallely but do not write anything until <strong>ALL </strong>threads are done working. Then there is a <em>barrier action </em>that is invoked that aggregates all the data, figures out which data are in contention and makes a clean write. The threads then move on. Sound familiar ? This is mapreduce on a JVM scale. From an intuitive queuing theory standpoint, this seems worse off than plain synchronization (http://stackoverflow.com/questions/2712232/what-is-the-fastest-cyclic-synchronization-in-java-executorservice-vs-cyclicba)  - however if you have a generation task (like the example of processing columns of a matrix) then you may be stuck with a CyclicBarrier. That is to say, if every single piece of work for generation 1 must be done in order to process any work for generation 2, then the best you can do is to wait for that condition to be met. CyclicBarrier synchronizes threads. Synchronizing work packages is much cheaper than synchronizing threads because signaling the completion of a work package does not mean terminating the thread/s. If your tasks are not generational but instead more of a tree-like structure in which only a subset need to be complete before the next step can occur on that subset, then you might want to consider a fork/join pattern (join those threads that are dependent on each other). You would need to take into account the context switching overhead of creating threads vs threadpools. Maybe a Java7 ForkJoinPool would be better. http://stackoverflow.com/questions/12631078/weak-performance-of-cyclicbarrier-with-many-threads-would-a-tree-like-synchroni</p>
+<h1>Fork/Join</h1>
+<p>http://docs.oracle.com/javase/tutorial/essential/concurrency/forkjoin.html</p>
+<h1></h1>
+<h2>Lightweight threads/fibers</h2>
+<p><a href="http://blog.paralleluniverse.co/post/49445260575/quasar-pulsar">http://blog.paralleluniverse.co/post/49445260575/quasar-pulsar</a></p>
+<table border="0">
+<tbody>
+<tr>
+<td>
+<table border="0">
+<tbody>
+<tr>
+<td valign="top"><center><a id="up_6562326" href="https://news.ycombinator.com/vote?for=6562326&amp;dir=up&amp;by=sandGorgon&amp;auth=fdd450e04e6a305c255c5a46ca63b474814e5e0c&amp;whence=%69%74%65%6d%3f%69%64%3d%36%35%36%30%32%31%34"> <img alt="upvote" src="{{ site.baseurl }}/assets/grayarrow.gif" border="0" hspace="2" vspace="3" /></a></center></td>
+<td>
+<div><a href="https://news.ycombinator.com/user?id=eeperson">eeperson</a> 5 days ago | <a href="https://news.ycombinator.com/item?id=6562326">link</a></div>
+<p><span style="color: #000000;">Wouldn't a thread still have to block somewhere? How would you call the synchronous code without blocking on any threads?</span><span style="font-size: xx-small;"><span style="text-decoration: underline;"><a href="https://news.ycombinator.com/reply?id=6562326&amp;whence=%69%74%65%6d%3f%69%64%3d%36%35%36%30%32%31%34">reply</a></span></span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table border="0">
+<tbody>
+<tr>
+<td><img alt="" src="{{ site.baseurl }}/assets/s.gif" width="200" height="1" /></td>
+<td valign="top"><center><a id="up_6564098" href="https://news.ycombinator.com/vote?for=6564098&amp;dir=up&amp;by=sandGorgon&amp;auth=b80d8679672d45fdd217c1af55fe99040eb069fb&amp;whence=%69%74%65%6d%3f%69%64%3d%36%35%36%30%32%31%34"><img alt="upvote" src="{{ site.baseurl }}/assets/grayarrow.gif" border="0" hspace="2" vspace="3" /></a></center></td>
+<td>
+<div><a href="https://news.ycombinator.com/user?id=pron">pron</a> 5 days ago | <a href="https://news.ycombinator.com/item?id=6564098">link</a></div>
+<p><span style="color: #000000;">You block the lightweight thread (fiber), rather than the OS thread. Fibers are implemented as continuations scheduled by a very good multi-threaded scheduler (ForkJoinPool).</span><span style="font-size: xx-small;"><span style="text-decoration: underline;"><a href="https://news.ycombinator.com/reply?id=6564098&amp;whence=%69%74%65%6d%3f%69%64%3d%36%35%36%30%32%31%34">reply</a></span></span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h1><a href="http://www.vogella.com/articles/JavaConcurrency/article.html#futures">http://www.vogella.com/articles/JavaConcurrency/article.html#futures</a></h1>
+<p><a href="https://github.com/orfjackal/jumi-actors/tree/master/jumi-actors/src/main/java/fi/jumi/actors/eventizers">https://github.com/orfjackal/jumi-actors/tree/master/jumi-actors/src/main/java/fi/jumi/actors/eventizers</a> <a href="http://www.scala-lang.org/old/node/6155">http://www.scala-lang.org/old/node/6155</a>   The classic Java Threading model is not for applications development, it is an implementation infrastructure for more appropriate abstractions. java.util.concurrent gives us Futures and (JCP willing) Parallel Arrays. These are far, far better tools of application development than using shared memory multi-threading. The overhead of using them is present but it is minimal compared to the resources used for computation, at least in the computationally intensive little tests I am running. In non-computationally intensive cases the overhead will be even smaller. <a href="http://aboutwhichmorelater.tumblr.com/post/46862769549/futures-arent-ersatz-threads">http://aboutwhichmorelater.tumblr.com/post/46862769549/futures-arent-ersatz-threads</a> anguages like <a href="http://www.haskell.org/haskellwiki/Haskell">Haskell</a> and <a href="http://golang.org/">Go</a> implement lightweight threads in their runtimes, allowing for cheaply maintaining millions of threads of execution, with the runtime itself multiplexing I/O operations. Go manages this by using <em>segmented stacks</em>: it allocates stack space as needed. This requires both the complicity of the compiler and a different ABI, but that’s the beauty of being able to start over. In Finagle and elsewhere, we use <a href="http://twitter.github.com/finagle/guide/Futures.html">composable futures</a> as the basis of our concurrent programming model (these are quite different than the venerable <code>java.util.Future</code> and its brethren). Futures, it is often argued, make up for the deficiencies of traditional “event programming”: callbacks are tedious, compromise modularity, and make for spaghetti-like code that is difficult to understand. Futures correct this by introducing constructs that make callbacks manageable.   Task/event based asynchronous patterns http://msdn.microsoft.com/en-us/library/wewwczdw%28v=vs.110%29.aspx http://msdn.microsoft.com/en-us/library/ms228966%28v=vs.110%29.aspx http://en.wikipedia.org/wiki/Coroutine http://msdn.microsoft.com/en-us/library/ms228966%28v=vs.110%29.aspx   An implementation of task/event based asynchronous pattern     Recursive (aka reentrant) mutexes are a bad idea. The fundamental reason to use a mutex is that mutexes protect invariants, perhaps internal invariants like ``p.Prev.Next == p for all elements of the ring,'' or perhaps external invariants like ``my local variable x is equal to p.Prev.'' Locking a mutex asserts ``I need the invariants to hold'' and perhaps ``I will temporarily break those invariants.'' Releasing the mutex asserts ``I no longer depend on those invariants'' and ``If I broke them, I have restored them.'' Understanding that mutexes protect invariants is essential to identifying where mutexes are needed and where they are not. For example, does a shared counter updated with atomic increment and decrement instructions need a mutex? It depends on the invariants.  If the only invariant is that the counter has value i - d after i increments and d decrements, then the atmocity of the instructions ensures the invariants; no mutex is needed.  But if the counter must be in sync with some other data structure (perhaps it counts the number of elements on a list), then the atomicity of the individual operations is not enough.  Something else, often a mutex, must protect the higher-level invariant. This is the reason that operations on maps in Go are not guaranteed to be atomic: it would add expense without benefit in typical cases. Let's take a look at recursive mutexes. Suppose we have code like this: func F() { mu.Lock() ... do some stuff ... G() ... do some more stuff ... mu.Unlock() } func G() { mu.Lock() ... do some stuff ... mu.Unlock() } Normally, when a call to mu.Lock returns, the calling code can now assume that the protected invariants hold, until it calls mu.Unlock. A recursive mutex implementation would make G's mu.Lock and mu.Unlock calls be no-ops when called from within F or any other context where the current thread already holds mu. If mu used such an implementation, then when mu.Lock returns inside G, the invariants may or may not hold.  It depends on what F has done before calling G.  Maybe F didn't even realize that G needed those invariants and has broken them (entirely possible, especially in complex code). Recursive mutexes do not protect invariants. Mutexes have only one job, and recursive mutexes don't do it. There are simpler problems with them, like if you wrote func F() { mu.Lock() ... do some stuff } you'd never find the bug in single-threaded testing. But that's just a special case of the bigger problem, which is that they provide no guarantees at all about the invariants that the mutex is meant to protect. If you need to implement functionality that can be called with or without holding a mutex, the clearest thing to do is to write two versions.  For example, instead of the above G, you could write: // To be called with mu already held. // Caller must be careful to ensure that ... func g() { ... do some stuff ... } func G() { mu.Lock() g() mu.Unlock() } or if they're both unexported, g and gLocked. I am sure that we'll need TryLock eventually; feel free to send us a CL for that.  Lock with timeout seems less essential but if there were a clean implementation (I don't know of one) then maybe it would be okay.  Please don't send a CL that implements recursive mutexes. Recursive mutexes are just a mistake, nothing more than a comfortable home for bugs. Russ</p>
+<p>https://groups.google.com/forum/#!topic/golang-nuts/XqW1qcuZgKg</p>
