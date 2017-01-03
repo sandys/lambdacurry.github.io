@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2004-12-17 22:17:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2004/12/friction-less-business/
 slug: friction-less-business
 title: Friction-less business

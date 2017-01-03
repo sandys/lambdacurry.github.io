@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-10-16 18:45:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/10/fly-like-a-bird/
 slug: fly-like-a-bird
 title: Fly  like a bird

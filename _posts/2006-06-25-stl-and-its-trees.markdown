@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2006-06-25 15:26:01+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2006/06/stl-and-its-trees/
 slug: stl-and-its-trees
 title: STL and its trees

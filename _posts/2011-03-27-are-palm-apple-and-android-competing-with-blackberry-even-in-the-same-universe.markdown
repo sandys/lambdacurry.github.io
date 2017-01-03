@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2011-03-27 04:28:05+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2011/03/are-palm-apple-and-android-competing-with-blackberry-even-in-the-same-universe/
 slug: are-palm-apple-and-android-competing-with-blackberry-even-in-the-same-universe
 title: Are Palm, Apple and Android competing with Blackberry, even in the same universe

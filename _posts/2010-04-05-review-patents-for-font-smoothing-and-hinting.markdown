@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-04-05 18:49:01+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2010/04/review-patents-for-font-smoothing-and-hinting/
 slug: review-patents-for-font-smoothing-and-hinting
 title: Review patents for font Smoothing and Hinting

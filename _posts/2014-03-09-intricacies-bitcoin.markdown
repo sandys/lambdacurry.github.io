@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-03-09 10:11:34+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2014/03/intricacies-bitcoin/
 slug: intricacies-bitcoin
 title: The intricacies of Bitcoin

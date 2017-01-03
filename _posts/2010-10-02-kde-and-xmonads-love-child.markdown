@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-10-02 16:07:30+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2010/10/kde-and-xmonads-love-child/
 slug: kde-and-xmonads-love-child
 title: Kde and xmonad's love child

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-12-23 10:26:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/12/should-we-emulate-the-us-in-education/
 slug: should-we-emulate-the-us-in-education
 title: Should we emulate the US in education?

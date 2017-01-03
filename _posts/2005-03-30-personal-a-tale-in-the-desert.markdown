@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-03-30 14:41:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/03/personal-a-tale-in-the-desert/
 slug: personal-a-tale-in-the-desert
 title: '[Personal] A Tale in the Desert'

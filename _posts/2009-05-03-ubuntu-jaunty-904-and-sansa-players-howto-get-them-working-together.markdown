@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-05-03 12:08:12+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2009/05/ubuntu-jaunty-904-and-sansa-players-howto-get-them-working-together/
 slug: ubuntu-jaunty-904-and-sansa-players-howto-get-them-working-together
 title: Ubuntu Jaunty 9.04 and Sansa players - howto get them working together

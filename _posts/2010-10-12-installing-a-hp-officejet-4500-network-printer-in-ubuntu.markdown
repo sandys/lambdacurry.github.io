@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-10-12 09:12:14+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2010/10/installing-a-hp-officejet-4500-network-printer-in-ubuntu/
 slug: installing-a-hp-officejet-4500-network-printer-in-ubuntu
 title: Installing a HP Officejet 4500 Network Printer in Ubuntu

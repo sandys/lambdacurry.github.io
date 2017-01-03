@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-07-19 05:54:31+00:00
-layout: page
+layout: default
 link: http://www.lambdacurry.com/why-lambdacurry/
 slug: why-lambdacurry
 title: Why LambdaCurry ?

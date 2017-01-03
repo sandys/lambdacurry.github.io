@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-05-10 05:13:48+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2008/05/best-programming-fonts/
 slug: best-programming-fonts
 title: Best programming fonts

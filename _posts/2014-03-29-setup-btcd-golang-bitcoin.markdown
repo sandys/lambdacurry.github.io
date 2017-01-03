@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-03-29 05:11:32+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2014/03/setup-btcd-golang-bitcoin/
 slug: setup-btcd-golang-bitcoin
 title: Setting up btcd + Go build for bitcoin

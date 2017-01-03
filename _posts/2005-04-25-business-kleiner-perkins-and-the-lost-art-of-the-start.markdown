@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-04-25 22:28:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/04/business-kleiner-perkins-and-the-lost-art-of-the-start/
 slug: business-kleiner-perkins-and-the-lost-art-of-the-start
 title: '[business] Kleiner Perkins and the lost art of the start'

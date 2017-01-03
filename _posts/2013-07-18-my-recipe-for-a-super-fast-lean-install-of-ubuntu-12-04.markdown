@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2013-07-18 16:41:05+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2013/07/my-recipe-for-a-super-fast-lean-install-of-ubuntu-12-04/
 slug: my-recipe-for-a-super-fast-lean-install-of-ubuntu-12-04
 title: My recipe for a super-fast, lean install of Ubuntu 12.04

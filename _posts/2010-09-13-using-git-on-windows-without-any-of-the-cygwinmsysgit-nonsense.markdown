@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-09-13 07:05:56+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2010/09/using-git-on-windows-without-any-of-the-cygwinmsysgit-nonsense/
 slug: using-git-on-windows-without-any-of-the-cygwinmsysgit-nonsense
 title: Using Git on Windows without any of the Cygwin/msysgit nonsense

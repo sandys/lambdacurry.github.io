@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-06-25 06:16:20+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2009/06/id-software-merges-with-bethseda/
 slug: id-software-merges-with-bethseda
 title: Id Software merges with Bethseda

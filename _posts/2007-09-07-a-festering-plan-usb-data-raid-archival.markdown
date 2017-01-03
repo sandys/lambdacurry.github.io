@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2007-09-07 08:34:04+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2007/09/a-festering-plan-usb-data-raid-archival/
 slug: a-festering-plan-usb-data-raid-archival
 title: 'A festering plan: USB data RAID archival'

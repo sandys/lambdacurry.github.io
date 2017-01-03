@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-08-23 09:55:41+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2009/08/harfbuzz-graphite-and-dollar-exchange-rates/
 slug: harfbuzz-graphite-and-dollar-exchange-rates
 title: Harfbuzz, Graphite and dollar exchange rates

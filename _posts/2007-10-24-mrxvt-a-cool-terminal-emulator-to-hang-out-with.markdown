@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2007-10-24 07:03:05+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2007/10/mrxvt-a-cool-terminal-emulator-to-hang-out-with/
 slug: mrxvt-a-cool-terminal-emulator-to-hang-out-with
 title: mrxvt  - a cool terminal emulator to hang out with

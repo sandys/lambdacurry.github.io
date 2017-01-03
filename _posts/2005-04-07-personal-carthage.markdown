@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-04-07 22:28:36+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/04/personal-carthage/
 slug: personal-carthage
 title: '[Personal] Carthage'

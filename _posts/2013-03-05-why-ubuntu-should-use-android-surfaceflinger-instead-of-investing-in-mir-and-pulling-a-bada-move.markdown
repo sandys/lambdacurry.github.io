@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2013-03-05 05:00:36+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2013/03/why-ubuntu-should-use-android-surfaceflinger-instead-of-investing-in-mir-and-pulling-a-bada-move/
 slug: why-ubuntu-should-use-android-surfaceflinger-instead-of-investing-in-mir-and-pulling-a-bada-move
 title: Why Ubuntu should use Android Surfaceflinger instead of investing in Mir and

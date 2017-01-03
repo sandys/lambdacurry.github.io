@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2004-12-23 18:52:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2004/12/python-disassemble-code-lambdas/
 slug: python-disassemble-code-lambdas
 title: '[Python] Disassemble code, lambdas'

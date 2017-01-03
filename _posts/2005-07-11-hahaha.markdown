@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-07-11 15:59:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/07/hahaha/
 slug: hahaha
 title: Ha..Ha..Ha

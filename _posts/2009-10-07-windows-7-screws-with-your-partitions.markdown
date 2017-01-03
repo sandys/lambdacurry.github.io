@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-10-07 06:34:21+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2009/10/windows-7-screws-with-your-partitions/
 slug: windows-7-screws-with-your-partitions
 title: Windows 7 screws with your partitions

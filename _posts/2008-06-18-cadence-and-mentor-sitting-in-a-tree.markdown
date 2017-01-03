@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-06-18 10:29:33+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2008/06/cadence-and-mentor-sitting-in-a-tree/
 slug: cadence-and-mentor-sitting-in-a-tree
 title: Cadence and Mentor sitting in a tree....

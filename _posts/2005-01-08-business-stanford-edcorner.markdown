@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-01-08 01:25:10+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/01/business-stanford-edcorner/
 slug: business-stanford-edcorner
 title: '[Business] Stanford Edcorner'

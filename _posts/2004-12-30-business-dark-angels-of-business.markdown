@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2004-12-30 21:02:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2004/12/business-dark-angels-of-business/
 slug: business-dark-angels-of-business
 title: '[Business] (dark?) Angels of Business'

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-05-11 19:20:06+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2010/05/indian-govt-to-develop-its-own-os-and-why-you-should-be-supportive/
 slug: indian-govt-to-develop-its-own-os-and-why-you-should-be-supportive
 title: Indian govt to develop it's own OS and why you should be supportive.

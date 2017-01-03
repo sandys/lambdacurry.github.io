@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2006-04-18 05:04:42+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2006/04/27-of-what/
 slug: 27-of-what
 title: 27 % of what ??

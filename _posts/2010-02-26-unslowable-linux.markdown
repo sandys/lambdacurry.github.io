@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-02-26 08:10:26+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2010/02/unslowable-linux/
 slug: unslowable-linux
 title: Unslowable Linux

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-01-26 20:27:13+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/01/business-mousedriver-chronicles/
 slug: business-mousedriver-chronicles
 title: '[Business] Mousedriver chronicles'

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-03-20 07:22:39+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2009/03/a-business-case-for-infosys-to-deploy-its-bench-towards-foss/
 slug: a-business-case-for-infosys-to-deploy-its-bench-towards-foss
 title: A Business case for Infosys to deploy its "bench" towards FOSS

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-06-30 13:24:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/06/rise-and-shine/
 slug: rise-and-shine
 title: Rise and Shine

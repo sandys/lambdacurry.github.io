@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-05-01 18:47:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/05/business-china-yin-and-yuan/
 slug: business-china-yin-and-yuan
 title: '[Business, China] Yin and Yuan'

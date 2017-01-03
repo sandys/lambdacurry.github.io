@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-12-08 05:20:03+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2010/12/pair-programming-as-a-culture-my-jijutsu-vs-yours/
 slug: pair-programming-as-a-culture-my-jijutsu-vs-yours
 title: 'Pair programming as a culture : my jijutsu vs yours'

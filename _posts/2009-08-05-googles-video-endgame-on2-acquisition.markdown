@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-08-05 18:22:41+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2009/08/googles-video-endgame-on2-acquisition/
 slug: googles-video-endgame-on2-acquisition
 title: 'Google''s video endgame: On2 acquisition'

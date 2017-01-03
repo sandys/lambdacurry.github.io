@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-07-23 08:06:10+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2009/07/zappos-sells-to-amazon-did-the-vcs-force-their-hand/
 slug: zappos-sells-to-amazon-did-the-vcs-force-their-hand
 title: 'Zappos sells to Amazon: did the VC''s force their hand'

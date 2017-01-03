@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-11-16 04:44:05+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2010/11/facebook-messaging-google-voice-trust/
 slug: facebook-messaging-google-voice-trust
 title: Facebook Messaging is less useful than Google Voice + trust

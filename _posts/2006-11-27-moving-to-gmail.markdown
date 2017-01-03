@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2006-11-27 04:33:55+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2006/11/moving-to-gmail/
 slug: moving-to-gmail
 title: Moving! To! Gmail!

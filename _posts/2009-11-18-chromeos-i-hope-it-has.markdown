@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-11-18 02:49:52+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2009/11/chromeos-i-hope-it-has/
 slug: chromeos-i-hope-it-has
 title: 'ChromeOS : I hope it has...'

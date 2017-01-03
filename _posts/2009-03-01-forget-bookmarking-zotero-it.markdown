@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-03-01 11:43:02+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2009/03/forget-bookmarking-zotero-it/
 slug: forget-bookmarking-zotero-it
 title: Forget bookmarking - Zotero it

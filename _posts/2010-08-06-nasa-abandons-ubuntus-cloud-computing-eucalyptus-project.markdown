@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-08-06 20:08:12+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2010/08/nasa-abandons-ubuntus-cloud-computing-eucalyptus-project/
 slug: nasa-abandons-ubuntus-cloud-computing-eucalyptus-project
 title: NASA abandons Ubuntu's cloud computing Eucalyptus project

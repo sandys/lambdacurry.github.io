@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-07-11 20:02:26+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2008/07/the-evolution-of-c-why-pointer-to-data-members/
 slug: the-evolution-of-c-why-pointer-to-data-members
 title: 'The evolution of C++: Why pointer to data members'

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-08-24 21:53:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/08/file-and-directory-check-in-makefile/
 slug: file-and-directory-check-in-makefile
 title: File and directory check in Makefile

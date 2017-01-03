@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2011-08-08 05:22:38+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2011/08/easier-said-than-done-1/
 slug: easier-said-than-done-1
 title: 'Easier said than done #1'

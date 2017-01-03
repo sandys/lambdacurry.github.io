@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-12-31 22:03:53+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2010/01/cheap-webcam-in-linux-ubuntu-karmic-9-10-with-skype/
 slug: cheap-webcam-in-linux-ubuntu-karmic-9-10-with-skype
 title: Cheap webcam in Linux (Ubuntu Karmic 9.10) with Skype

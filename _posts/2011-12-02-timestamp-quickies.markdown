@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2011-12-02 06:05:54+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2011/12/timestamp-quickies/
 slug: timestamp-quickies
 title: Timestamp quickies

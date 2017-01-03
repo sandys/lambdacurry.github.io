@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-12-07 12:48:59+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2009/12/a-larrabee-in-intels-bonnet-the-real-nvidia-and-amd-story/
 slug: a-larrabee-in-intels-bonnet-the-real-nvidia-and-amd-story
 title: 'A (Larra)Bee in Intel''s bonnet : The real nVidia and AMD story'

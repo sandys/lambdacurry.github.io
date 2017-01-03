@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2012-07-13 06:15:56+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2012/07/modeling-a-rule-engine-using-a-search-system/
 slug: modeling-a-rule-engine-using-a-search-system
 title: Modeling a rule engine using a search system

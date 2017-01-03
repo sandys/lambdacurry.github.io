@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2011-10-14 19:30:47+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2011/10/monitoring-hardware-raid-at-a-dedicated-hosting-provider-hivelocity/
 slug: monitoring-hardware-raid-at-a-dedicated-hosting-provider-hivelocity
 title: Monitoring hardware RAID at a dedicated hosting provider (Hivelocity??) ...

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-09-19 16:37:35+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2010/09/postgresql-9-0-goes-gold/
 slug: postgresql-9-0-goes-gold
 title: Postgresql 9.0 goes gold!

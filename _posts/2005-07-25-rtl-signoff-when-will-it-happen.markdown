@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-07-25 21:26:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/07/rtl-signoff-when-will-it-happen/
 slug: rtl-signoff-when-will-it-happen
 title: RTL Signoff - When will it happen?

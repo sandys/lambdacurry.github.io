@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-09-20 04:40:26+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2010/09/sundrop-vs-android-whats-that-all-about/
 slug: sundrop-vs-android-whats-that-all-about
 title: 'Sundrop vs Android : what''s that all about ?'

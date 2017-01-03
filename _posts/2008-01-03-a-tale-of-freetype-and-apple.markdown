@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-01-03 14:26:02+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2008/01/a-tale-of-freetype-and-apple/
 slug: a-tale-of-freetype-and-apple
 title: A tale of Freetype and Apple

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-07-18 21:02:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/07/a-sardarji-in-new-york/
 slug: a-sardarji-in-new-york
 title: A Sardarji in New York

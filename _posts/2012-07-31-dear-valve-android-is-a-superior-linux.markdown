@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2012-07-31 08:53:38+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2012/07/dear-valve-android-is-a-superior-linux/
 slug: dear-valve-android-is-a-superior-linux
 title: Dear Valve - Android is a superior Linux

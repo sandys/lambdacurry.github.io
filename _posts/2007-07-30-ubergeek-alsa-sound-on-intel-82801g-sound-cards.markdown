@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2007-07-30 17:59:21+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2007/07/ubergeek-alsa-sound-on-intel-82801g-sound-cards/
 slug: ubergeek-alsa-sound-on-intel-82801g-sound-cards
 title: Ubergeek - Alsa sound on Intel 82801G sound cards

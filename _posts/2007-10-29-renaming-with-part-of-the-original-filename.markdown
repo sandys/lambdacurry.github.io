@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2007-10-29 14:29:44+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2007/10/renaming-with-part-of-the-original-filename/
 slug: renaming-with-part-of-the-original-filename
 title: Renaming with part of the original filename

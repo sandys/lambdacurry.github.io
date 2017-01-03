@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-06-20 22:09:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/06/function-pointers-number-of-parameters-mismatch/
 slug: function-pointers-number-of-parameters-mismatch
 title: 'Function pointers: number of parameters mismatch'

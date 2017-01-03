@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-06-28 20:59:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/06/why-i-cant-be-a-good-industrialistyet/
 slug: why-i-cant-be-a-good-industrialistyet
 title: Why I cant be a good industrialist...yet

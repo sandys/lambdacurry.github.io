@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-12-15 07:24:25+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2009/12/clojure-needs-donors/
 slug: clojure-needs-donors
 title: Clojure needs donors

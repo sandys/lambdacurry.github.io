@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-09-09 23:06:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/09/just-a-brain-teaser/
 slug: just-a-brain-teaser
 title: Just a brain teaser

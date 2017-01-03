@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2012-10-15 05:12:28+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2012/10/the-fastest-way-to-transfer-files-on-a-one-xs-or-samsung-s3-why-mtp-sucks-and-a-note-to-google-engineers/
 slug: the-fastest-way-to-transfer-files-on-a-one-xs-or-samsung-s3-why-mtp-sucks-and-a-note-to-google-engineers
 title: The fastest way to transfer files on a One X/S, Nexus 7 or Samsung S3, why

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-09-28 10:46:19+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2010/09/finally-openoffice-forks-off-from-oracle-create-libreoffice/
 slug: finally-openoffice-forks-off-from-oracle-create-libreoffice
 title: Finally.... OpenOffice forks off from Oracle. Create Libreoffice

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-03-03 08:53:41+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2010/03/quick-one-liner-to-save-a-list-of-gems-with-multiple-versions-and-install-on-another-machine/
 slug: quick-one-liner-to-save-a-list-of-gems-with-multiple-versions-and-install-on-another-machine
 title: Quick one liner to save a list of gems (with multiple versions) and install

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2006-06-25 15:36:03+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2006/06/arcelor-mittal-hah-mittal-arcelor/
 slug: arcelor-mittal-hah-mittal-arcelor
 title: Arcelor-Mittal? hah...  Mittal-Arcelor

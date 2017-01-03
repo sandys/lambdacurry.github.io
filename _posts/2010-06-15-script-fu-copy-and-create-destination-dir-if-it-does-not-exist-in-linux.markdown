@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-06-15 07:38:30+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2010/06/script-fu-copy-and-create-destination-dir-if-it-does-not-exist-in-linux/
 slug: script-fu-copy-and-create-destination-dir-if-it-does-not-exist-in-linux
 title: 'script-fu: copy and create destination dir if it does not exist in linux'

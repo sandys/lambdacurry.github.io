@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-11-21 11:01:20+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2008/11/transmeta-and-the-ipod/
 slug: transmeta-and-the-ipod
 title: Transmeta and the Ipod

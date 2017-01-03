@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-04-23 13:50:25+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2009/04/hi-jaunty/
 slug: hi-jaunty
 title: Hi Jaunty

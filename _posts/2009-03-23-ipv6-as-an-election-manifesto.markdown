@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-03-23 09:42:52+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2009/03/ipv6-as-an-election-manifesto/
 slug: ipv6-as-an-election-manifesto
 title: IPV6 as an election manifesto

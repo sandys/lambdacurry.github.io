@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-11-05 17:32:33+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2010/11/microsoft-is-not-ceasing-to-surprise-me-in-a-good-way/
 slug: microsoft-is-not-ceasing-to-surprise-me-in-a-good-way
 title: Microsoft is not ceasing to surprise me (in a good way)

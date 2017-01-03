@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2013-07-17 17:09:26+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2013/07/mathematical-differences-between-a-database-and-a-search-system/
 slug: mathematical-differences-between-a-database-and-a-search-system
 title: Mathematical differences between a database and a search system

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2015-10-25 09:33:33+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2015/10/suspending-low-battery/
 slug: suspending-low-battery
 title: Suspending systemd/upowerd/logind on low battery (Fedora or Ubuntu)

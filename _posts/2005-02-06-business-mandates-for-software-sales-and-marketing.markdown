@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-02-06 15:41:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/02/business-mandates-for-software-sales-and-marketing/
 slug: business-mandates-for-software-sales-and-marketing
 title: '[Business] Mandates for Software Sales and  Marketing'

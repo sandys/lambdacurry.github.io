@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-09-23 17:21:41+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2013/09/steamos-is-here-my-prediction-came-true/
 slug: steamos-is-here-my-prediction-came-true
 title: SteamOS is here - my prediction came true

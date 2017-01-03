@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-03-31 18:26:46+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2008/03/multithreading-paradigms-windows-and-nix/
 slug: multithreading-paradigms-windows-and-nix
 title: 'Multithreading paradigms: windows and *nix'

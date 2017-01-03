@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-05-27 21:08:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/05/how-to-become-a-vc/
 slug: how-to-become-a-vc
 title: How to become a VC....

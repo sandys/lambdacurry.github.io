@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-08-19 21:42:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/08/is-eda-at-its-nadir/
 slug: is-eda-at-its-nadir
 title: Is EDA at its nadir?

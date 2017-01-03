@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-07-11 20:30:08+00:00
-layout: page
+layout: default
 link: http://www.lambdacurry.com/powershell-config/
 slug: powershell-config
 title: Powershell Config

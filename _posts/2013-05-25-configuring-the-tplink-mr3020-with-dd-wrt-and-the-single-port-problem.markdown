@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2013-05-25 17:19:05+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2013/05/configuring-the-tplink-mr3020-with-dd-wrt-and-the-single-port-problem/
 slug: configuring-the-tplink-mr3020-with-dd-wrt-and-the-single-port-problem
 title: Configuring the TP-Link travel router with DD-WRT (and solving the single port

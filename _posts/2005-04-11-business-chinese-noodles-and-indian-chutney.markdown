@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-04-11 21:11:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/04/business-chinese-noodles-and-indian-chutney/
 slug: business-chinese-noodles-and-indian-chutney
 title: '[Business] Chinese noodles and Indian chutney'

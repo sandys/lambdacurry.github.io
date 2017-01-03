@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2004-12-18 22:10:28+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2004/12/last-mile-broadband-through-stratellites/
 slug: last-mile-broadband-through-stratellites
 title: Last mile broadband through Stratellites

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-08-15 11:41:20+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2009/08/nvidia-ati-start-your-engines-rage-is-here/
 slug: nvidia-ati-start-your-engines-rage-is-here
 title: nVidia, ATI start your engines - Rage is here

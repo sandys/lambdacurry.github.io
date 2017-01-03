@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-09-21 20:52:13+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2009/09/all-hail-lucid-lynx/
 slug: all-hail-lucid-lynx
 title: All hail Lucid Lynx !

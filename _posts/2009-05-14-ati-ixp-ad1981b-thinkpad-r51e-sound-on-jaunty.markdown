@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-05-14 09:02:49+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2009/05/ati-ixp-ad1981b-thinkpad-r51e-sound-on-jaunty/
 slug: ati-ixp-ad1981b-thinkpad-r51e-sound-on-jaunty
 title: ATI IXP AD1981B (Thinkpad R51e) sound on Jaunty

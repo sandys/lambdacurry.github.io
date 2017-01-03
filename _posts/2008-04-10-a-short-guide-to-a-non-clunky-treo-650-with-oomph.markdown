@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-04-10 10:06:49+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2008/04/a-short-guide-to-a-non-clunky-treo-650-with-oomph/
 slug: a-short-guide-to-a-non-clunky-treo-650-with-oomph
 title: A short guide to a non-clunky Treo 650 (with oomph)

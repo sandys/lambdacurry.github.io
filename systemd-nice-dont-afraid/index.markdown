@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-10-19 20:09:54+00:00
-layout: page
+layout: default
 link: http://www.lambdacurry.com/systemd-nice-dont-afraid/
 slug: systemd-nice-dont-afraid
 title: systemd is nice. Dont be afraid.

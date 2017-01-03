@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-10-30 06:08:36+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2010/10/program-the-way-john-does/
 slug: program-the-way-john-does
 title: '"Program the way, John does"'

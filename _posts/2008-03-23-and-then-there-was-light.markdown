@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-03-23 16:59:15+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2008/03/and-then-there-was-light/
 slug: and-then-there-was-light
 title: And then there was light...

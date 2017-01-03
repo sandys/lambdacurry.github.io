@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2011-08-04 06:04:48+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2011/08/kde4-sucks-because-the-dev-community-thinks-there-is-no-money-in-it/
 slug: kde4-sucks-because-the-dev-community-thinks-there-is-no-money-in-it
 title: KDE4 sucks because the dev community thinks there is no money in it

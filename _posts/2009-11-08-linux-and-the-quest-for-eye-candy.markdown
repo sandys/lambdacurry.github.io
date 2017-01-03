@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-11-08 07:39:10+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2009/11/linux-and-the-quest-for-eye-candy/
 slug: linux-and-the-quest-for-eye-candy
 title: Linux and the Quest for Eye Candy

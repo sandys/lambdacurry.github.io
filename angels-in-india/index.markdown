@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2006-07-07 06:16:37+00:00
-layout: page
+layout: default
 link: http://www.lambdacurry.com/angels-in-india/
 slug: angels-in-india
 title: Angels in India

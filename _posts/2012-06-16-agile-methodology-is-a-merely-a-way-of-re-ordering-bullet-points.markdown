@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2012-06-16 06:52:09+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2012/06/agile-methodology-is-a-merely-a-way-of-re-ordering-bullet-points/
 slug: agile-methodology-is-a-merely-a-way-of-re-ordering-bullet-points
 title: Agile methodology is a merely a way of re-ordering bullet points

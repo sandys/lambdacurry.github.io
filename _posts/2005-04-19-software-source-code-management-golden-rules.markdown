@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-04-19 21:55:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/04/software-source-code-management-golden-rules/
 slug: software-source-code-management-golden-rules
 title: '[Software] Source code management - golden rules?'

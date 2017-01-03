@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2006-05-21 17:27:32+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2006/05/currency-for-advisorsstock-options/
 slug: currency-for-advisorsstock-options
 title: Currency for advisors:stock options

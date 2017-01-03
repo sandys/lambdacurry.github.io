@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2016-08-17 13:32:30+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2016/08/rbi-is-correctly-taking-baby-steps-around-fintech-regulation/
 slug: rbi-is-correctly-taking-baby-steps-around-fintech-regulation
 title: RBI is correctly taking baby steps around fintech regulation

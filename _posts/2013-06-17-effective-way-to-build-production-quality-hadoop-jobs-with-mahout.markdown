@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2013-06-17 10:20:13+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2013/06/effective-way-to-build-production-quality-hadoop-jobs-with-mahout/
 slug: effective-way-to-build-production-quality-hadoop-jobs-with-mahout
 title: Effective way to build production quality hadoop jobs (with mahout)

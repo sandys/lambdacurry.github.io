@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2012-09-01 09:50:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2012/09/importance-of-personas-for-product-development-in-the-ecommerce-industry/
 slug: importance-of-personas-for-product-development-in-the-ecommerce-industry
 title: Importance of personas for product development in the ecommerce industry

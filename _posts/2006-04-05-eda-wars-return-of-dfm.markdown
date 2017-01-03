@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2006-04-05 12:00:51+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2006/04/eda-wars-return-of-dfm/
 slug: eda-wars-return-of-dfm
 title: 'EDA Wars: Return of DFM'

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-08-05 07:09:38+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2013/08/platform-wars-net-and-the-jvm/
 slug: platform-wars-net-and-the-jvm
 title: 'Platform wars: .NET and the JVM'

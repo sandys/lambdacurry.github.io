@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2006-04-03 12:12:41+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2006/04/magma-support-for-openaccess/
 slug: magma-support-for-openaccess
 title: Magma support for OpenAccess

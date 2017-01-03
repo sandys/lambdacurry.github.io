@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2006-04-08 19:05:58+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2006/04/web-20-podcasting-and-proaxys/
 slug: web-20-podcasting-and-proaxys
 title: Web 2.0 - Podcasting and Proaxys

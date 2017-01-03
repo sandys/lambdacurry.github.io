@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-07-18 19:49:24+00:00
-layout: page
+layout: default
 link: http://www.lambdacurry.com/sample-page/
 slug: sample-page
 title: Sample Page

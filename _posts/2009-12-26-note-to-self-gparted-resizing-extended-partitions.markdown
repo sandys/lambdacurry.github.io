@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-12-26 07:40:27+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2009/12/note-to-self-gparted-resizing-extended-partitions/
 slug: note-to-self-gparted-resizing-extended-partitions
 title: 'Note to self: gparted resizing extended partitions'

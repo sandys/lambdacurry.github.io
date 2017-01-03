@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2007-10-13 17:39:53+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2007/10/microsoft-techvista-goliath-strikes-back/
 slug: microsoft-techvista-goliath-strikes-back
 title: 'Microsoft Techvista: Goliath strikes back??'

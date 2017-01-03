@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-01-29 11:54:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/01/business-the-new-art-of-bootstrapping/
 slug: business-the-new-art-of-bootstrapping
 title: '[Business] The New Art of Bootstrapping'

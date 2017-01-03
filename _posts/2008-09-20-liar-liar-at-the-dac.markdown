@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-09-20 10:40:23+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2008/09/liar-liar-at-the-dac/
 slug: liar-liar-at-the-dac
 title: Liar Liar at the DAC

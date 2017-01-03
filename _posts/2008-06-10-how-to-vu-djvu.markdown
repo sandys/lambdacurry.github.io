@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-06-10 18:01:04+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2008/06/how-to-vu-djvu/
 slug: how-to-vu-djvu
 title: How to vu DJVU

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-10-10 06:45:31+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2008/10/knell-bell-the-chakravyuha/
 slug: knell-bell-the-chakravyuha
 title: 'Knell bell : The Chakravyuha'

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-08-28 11:38:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/08/getting-too-hot-to-handle/
 slug: getting-too-hot-to-handle
 title: Getting too hot to handle?

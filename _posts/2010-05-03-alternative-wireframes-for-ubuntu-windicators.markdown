@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-05-03 13:52:44+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2010/05/alternative-wireframes-for-ubuntu-windicators/
 slug: alternative-wireframes-for-ubuntu-windicators
 title: Alternative wireframes for Ubuntu windicators

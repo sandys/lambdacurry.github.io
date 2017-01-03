@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2012-07-13 09:29:32+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2012/07/building-a-fully-intervenable-ecommerce-system/
 slug: building-a-fully-intervenable-ecommerce-system
 title: Building a fully "intervenable" ecommerce system

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2012-05-03 10:45:55+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2012/05/too-many-connection-resets-error-with-installing-gems/
 slug: too-many-connection-resets-error-with-installing-gems
 title: '"Too many connection resets error" with installing gems'

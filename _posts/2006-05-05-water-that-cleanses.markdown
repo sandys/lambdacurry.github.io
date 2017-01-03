@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2006-05-05 12:08:49+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2006/05/water-that-cleanses/
 slug: water-that-cleanses
 title: Water that cleanses...

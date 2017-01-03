@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-11-18 06:19:33+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2010/11/third-party-libs-management-with-leiningen-in-clojure/
 slug: third-party-libs-management-with-leiningen-in-clojure
 title: third party libs management with leiningen in clojure

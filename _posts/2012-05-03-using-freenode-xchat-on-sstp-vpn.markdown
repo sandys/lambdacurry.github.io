@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2012-05-03 07:40:53+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2012/05/using-freenode-xchat-on-sstp-vpn/
 slug: using-freenode-xchat-on-sstp-vpn
 title: Using freenode xchat on SSTP VPN

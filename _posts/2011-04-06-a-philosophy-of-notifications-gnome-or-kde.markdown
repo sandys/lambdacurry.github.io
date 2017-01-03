@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2011-04-06 12:46:05+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2011/04/a-philosophy-of-notifications-gnome-or-kde/
 slug: a-philosophy-of-notifications-gnome-or-kde
 title: A philosophy of notifications - Gnome or KDE

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2013-01-23 10:35:40+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2013/01/sending-email-using-amazon-ses-with-attachments-from-php/
 slug: sending-email-using-amazon-ses-with-attachments-from-php
 title: Sending email using Amazon SES with attachments from php

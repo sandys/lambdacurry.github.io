@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2006-04-25 05:23:58+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2006/04/venture-capital-funding-in-semiconductors-going-up/
 slug: venture-capital-funding-in-semiconductors-going-up
 title: Venture Capital funding in semiconductors going up...

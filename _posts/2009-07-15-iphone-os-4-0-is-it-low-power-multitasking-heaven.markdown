@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-07-15 06:43:59+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2009/07/iphone-os-4-0-is-it-low-power-multitasking-heaven/
 slug: iphone-os-4-0-is-it-low-power-multitasking-heaven
 title: 'iPhone OS 4.0: is it low-power, multitasking heaven?'

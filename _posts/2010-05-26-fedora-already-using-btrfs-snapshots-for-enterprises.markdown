@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-05-26 17:52:48+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2010/05/fedora-already-using-btrfs-snapshots-for-enterprises/
 slug: fedora-already-using-btrfs-snapshots-for-enterprises
 title: Fedora already using BTRFS snapshots for enterprises ?

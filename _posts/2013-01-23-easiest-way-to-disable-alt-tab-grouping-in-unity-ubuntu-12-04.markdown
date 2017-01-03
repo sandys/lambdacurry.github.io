@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2013-01-23 10:14:55+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2013/01/easiest-way-to-disable-alt-tab-grouping-in-unity-ubuntu-12-04/
 slug: easiest-way-to-disable-alt-tab-grouping-in-unity-ubuntu-12-04
 title: Easiest way to disable alt-tab grouping in Unity (Ubuntu 12.04)

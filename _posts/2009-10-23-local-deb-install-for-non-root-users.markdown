@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-10-23 07:50:27+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2009/10/local-deb-install-for-non-root-users/
 slug: local-deb-install-for-non-root-users
 title: Local deb install for non-root users

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2006-11-13 05:20:36+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2006/11/0000000006-feet-under-few-inches-deeper/
 slug: 0000000006-feet-under-few-inches-deeper
 title: 0.000000006 feet under - few inches deeper

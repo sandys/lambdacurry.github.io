@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-11-08 04:39:02+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2010/11/the-essence-of-scrum/
 slug: the-essence-of-scrum
 title: The essence of scrum ?

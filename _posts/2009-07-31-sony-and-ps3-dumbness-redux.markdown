@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-07-31 03:43:19+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2009/07/sony-and-ps3-dumbness-redux/
 slug: sony-and-ps3-dumbness-redux
 title: 'Sony and PS3 dumbness: redux'

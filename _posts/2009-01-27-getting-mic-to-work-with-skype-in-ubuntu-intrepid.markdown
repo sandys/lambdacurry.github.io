@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-01-27 08:07:14+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2009/01/getting-mic-to-work-with-skype-in-ubuntu-intrepid/
 slug: getting-mic-to-work-with-skype-in-ubuntu-intrepid
 title: Getting mic to work with Skype in Ubuntu Intrepid

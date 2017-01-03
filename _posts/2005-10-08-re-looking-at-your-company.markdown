@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-10-08 09:44:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/10/re-looking-at-your-company/
 slug: re-looking-at-your-company
 title: (Re) Looking at your company

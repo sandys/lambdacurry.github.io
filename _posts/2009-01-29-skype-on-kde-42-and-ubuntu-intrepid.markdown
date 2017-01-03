@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-01-29 11:14:08+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2009/01/skype-on-kde-42-and-ubuntu-intrepid/
 slug: skype-on-kde-42-and-ubuntu-intrepid
 title: Skype on KDE 4.2 and Ubuntu Intrepid

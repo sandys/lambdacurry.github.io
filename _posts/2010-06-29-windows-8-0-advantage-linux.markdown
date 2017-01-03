@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-06-29 04:40:28+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2010/06/windows-8-0-advantage-linux/
 slug: windows-8-0-advantage-linux
 title: Windows 8 = 0 advantage linux ?

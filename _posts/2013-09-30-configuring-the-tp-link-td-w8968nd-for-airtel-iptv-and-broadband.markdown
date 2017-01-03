@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-09-30 11:14:51+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2013/09/configuring-the-tp-link-td-w8968nd-for-airtel-iptv-and-broadband/
 slug: configuring-the-tp-link-td-w8968nd-for-airtel-iptv-and-broadband
 title: Configuring the TP-Link TD-W8968ND for Airtel IPTV and Broadband

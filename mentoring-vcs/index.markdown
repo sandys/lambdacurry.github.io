@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2007-01-12 06:21:52+00:00
-layout: page
+layout: default
 link: http://www.lambdacurry.com/mentoring-vcs/
 slug: mentoring-vcs
 title: Mentoring VCs

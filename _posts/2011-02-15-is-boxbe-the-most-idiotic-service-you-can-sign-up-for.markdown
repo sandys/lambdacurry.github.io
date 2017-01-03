@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2011-02-15 05:26:52+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2011/02/is-boxbe-the-most-idiotic-service-you-can-sign-up-for/
 slug: is-boxbe-the-most-idiotic-service-you-can-sign-up-for
 title: Is Boxbe the most idiotic service you can sign up for ?

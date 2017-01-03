@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-04-01 18:50:46+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2010/04/hey-nvidia-get-a-handle-on-lucid-lynxs-problems/
 slug: hey-nvidia-get-a-handle-on-lucid-lynxs-problems
 title: hey nVidia - get a handle on Lucid Lynx's problems

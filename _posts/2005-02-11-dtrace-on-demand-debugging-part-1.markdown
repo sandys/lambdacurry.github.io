@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-02-11 20:54:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/02/dtrace-on-demand-debugging-part-1/
 slug: dtrace-on-demand-debugging-part-1
 title: '[dtrace]  On demand debugging - Part 1'

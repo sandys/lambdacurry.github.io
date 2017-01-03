@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-07-29 11:34:22+00:00
-layout: page
+layout: default
 link: http://www.lambdacurry.com/super-fast-lean-ubuntu-setup/
 slug: super-fast-lean-ubuntu-setup
 title: Super-fast & lean Ubuntu setup

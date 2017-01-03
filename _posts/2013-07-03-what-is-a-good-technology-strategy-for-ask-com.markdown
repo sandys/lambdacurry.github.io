@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2013-07-03 18:08:42+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2013/07/what-is-a-good-technology-strategy-for-ask-com/
 slug: what-is-a-good-technology-strategy-for-ask-com
 title: What is a good technology strategy for Ask.com ?

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-09-13 08:28:10+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2008/09/laptop-bags-why-so-bad/
 slug: laptop-bags-why-so-bad
 title: Laptop bags - why so bad?

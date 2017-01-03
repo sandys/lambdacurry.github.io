@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-02-09 16:22:00+00:00
-layout: page
+layout: default
 link: http://www.lambdacurry.com/zshrc/
 slug: zshrc
 title: .zshrc

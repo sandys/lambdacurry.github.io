@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-02-14 07:40:09+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2008/02/wowzorr-nvidias-cellphone-chip-plays-quake/
 slug: wowzorr-nvidias-cellphone-chip-plays-quake
 title: Wowzorr.... Nvidia's cellphone chip plays quake

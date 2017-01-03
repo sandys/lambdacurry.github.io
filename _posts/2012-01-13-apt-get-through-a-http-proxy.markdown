@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2012-01-13 12:15:07+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2012/01/apt-get-through-a-http-proxy/
 slug: apt-get-through-a-http-proxy
 title: apt-get through a http proxy

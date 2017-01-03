@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-09-29 20:50:15+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2010/09/bitbucket-gets-acquired-what-next-for-git/
 slug: bitbucket-gets-acquired-what-next-for-git
 title: 'Bitbucket gets acquired: what next for git ?'

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-10-24 21:23:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/10/bernankes-gonna-go-up-in-a-copter/
 slug: bernankes-gonna-go-up-in-a-copter
 title: Bernanke's gonna go up in a 'copter

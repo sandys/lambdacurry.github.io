@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-10-12 15:24:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/10/marathon-training-week-2/
 slug: marathon-training-week-2
 title: 'Marathon training: Week 2'

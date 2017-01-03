@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-02-20 20:41:08+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2009/02/want-portable-developmentdemo-machine-use-a-vm/
 slug: want-portable-developmentdemo-machine-use-a-vm
 title: Want portable development/demo machine? Use a VM

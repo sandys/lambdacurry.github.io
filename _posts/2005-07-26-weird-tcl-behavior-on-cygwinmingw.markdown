@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-07-26 21:37:00+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2005/07/weird-tcl-behavior-on-cygwinmingw/
 slug: weird-tcl-behavior-on-cygwinmingw
 title: Weird TCL behavior on Cygwin/MinGW

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-10-11 17:00:04+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2008/10/build-an-el-cheapo-hi-def-portable-audio-system/
 slug: build-an-el-cheapo-hi-def-portable-audio-system
 title: Build an el-cheapo hi-def portable audio system

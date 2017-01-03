@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-10-25 04:38:15+00:00
-layout: page
+layout: default
 link: http://www.lambdacurry.com/about/
 slug: about
 title: About

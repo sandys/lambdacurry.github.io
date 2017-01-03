@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2006-05-09 05:59:15+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2006/05/chip-clocking-breaktrhough-promised/
 slug: chip-clocking-breaktrhough-promised
 title: Chip clocking breakthrough promised

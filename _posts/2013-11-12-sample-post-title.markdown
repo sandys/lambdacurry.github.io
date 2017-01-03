@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-11-12 13:34:17+00:00
-layout: post
+layout: default
 link: http://www.lambdacurry.com/2013/11/sample-post-title/
 published: false
 slug: sample-post-title
