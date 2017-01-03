@@ -33,7 +33,7 @@ theme: minima
 #theme: jekyll-theme-tactile
 #theme: jekyll-theme-modernist
 disqus:
-    shortname: lambdacurry
+  shortname: lambdacurry
 
 gems:
   - jekyll-feed
