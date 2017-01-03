@@ -14,7 +14,9 @@ gem "jekyll", "3.3.1"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 #gem "minima"
 gem 'minima' 
-gem 'jekyll-theme-leap-day' ,:path => "vendor/gems/jekyll-theme-leap-day" #, github: 'pages-themes/leap-day', branch: 'master'
+#gem 'jekyll-theme-leap-day' ,:path => "vendor/gems/jekyll-theme-leap-day" #, github: 'pages-themes/leap-day', branch: 'master'
+#gem 'jekyll-theme-tactile' 
+#gem 'jekyll-theme-modernist' 
 
 gem "github-pages", '109', group: :jekyll_plugins
 

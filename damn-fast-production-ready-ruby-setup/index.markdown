@@ -9,4 +9,4 @@ title: Damn fast, production ready Ruby setup
 wordpress_id: 745
 ---
 
-https://gist.github.com/sandys/5939306
+{% gist sandys/5939306 %}
