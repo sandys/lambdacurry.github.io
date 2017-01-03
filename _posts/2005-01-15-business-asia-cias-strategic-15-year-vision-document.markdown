@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-01-15 20:29:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/01/business-asia-cias-strategic-15-year-vision-document/
 slug: business-asia-cias-strategic-15-year-vision-document
 title: '[Business, Asia] CIA''s strategic 15-year vision document'

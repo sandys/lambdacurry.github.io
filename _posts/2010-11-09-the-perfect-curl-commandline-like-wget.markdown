@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-11-09 06:16:04+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2010/11/the-perfect-curl-commandline-like-wget/
 slug: the-perfect-curl-commandline-like-wget
 title: The perfect cURL commandline (like wget)

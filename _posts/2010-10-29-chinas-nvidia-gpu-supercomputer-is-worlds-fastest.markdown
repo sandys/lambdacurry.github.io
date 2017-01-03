@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-10-29 18:57:25+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2010/10/chinas-nvidia-gpu-supercomputer-is-worlds-fastest/
 slug: chinas-nvidia-gpu-supercomputer-is-worlds-fastest
 title: China's nVidia GPU supercomputer is world's fastest

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-08-15 12:07:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/08/happy-independence-day/
 slug: happy-independence-day
 title: Happy Independence day....

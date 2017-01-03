@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-02-09 03:21:34+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2008/02/what-did-you-say-uh-djvu/
 slug: what-did-you-say-uh-djvu
 title: What did you say?.. uh.. DJVU

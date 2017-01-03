@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2012-06-15 08:44:50+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2012/06/faber-castell-rollerball-refills-in-mont-blanc/
 slug: faber-castell-rollerball-refills-in-mont-blanc
 title: Faber Castell rollerball refills in Mont Blanc

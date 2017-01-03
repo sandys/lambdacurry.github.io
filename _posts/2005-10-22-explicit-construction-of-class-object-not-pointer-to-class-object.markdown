@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-10-22 17:48:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/10/explicit-construction-of-class-object-not-pointer-to-class-object/
 slug: explicit-construction-of-class-object-not-pointer-to-class-object
 title: Explicit construction of class object (not pointer to class object)

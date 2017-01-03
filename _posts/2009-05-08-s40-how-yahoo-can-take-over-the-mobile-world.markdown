@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-05-08 04:32:21+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2009/05/s40-how-yahoo-can-take-over-the-mobile-world/
 slug: s40-how-yahoo-can-take-over-the-mobile-world
 title: 'S40: How Yahoo can take over the mobile world'

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2013-02-21 10:14:38+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2013/02/why-the-ps4-is-going-to-be-dead-in-the-water/
 slug: why-the-ps4-is-going-to-be-dead-in-the-water
 title: 'Why the PS4 is going to be dead in the water '

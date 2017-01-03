@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2006-04-19 15:49:08+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2006/04/pitch-and-presentation/
 slug: pitch-and-presentation
 title: Pitch and Presentation

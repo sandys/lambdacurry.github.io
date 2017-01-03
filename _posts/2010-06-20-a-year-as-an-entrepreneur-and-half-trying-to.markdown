@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-06-20 04:03:15+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2010/06/a-year-as-an-entrepreneur-and-half-trying-to/
 slug: a-year-as-an-entrepreneur-and-half-trying-to
 title: A year as an entrepreneur (and half, trying to)

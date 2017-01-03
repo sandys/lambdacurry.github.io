@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-09-09 06:07:44+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2010/09/pressflow-or-drupal-on-ubuntu-10-04-and-later-with-nginx/
 slug: pressflow-or-drupal-on-ubuntu-10-04-and-later-with-nginx
 title: Pressflow (or Drupal) on Ubuntu 10.04 and later .. with nginx, php-fpm and

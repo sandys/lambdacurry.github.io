@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-01-08 19:31:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/01/software-functors-and-expression-templates/
 slug: software-functors-and-expression-templates
 title: '[Software] Functors and expression templates'

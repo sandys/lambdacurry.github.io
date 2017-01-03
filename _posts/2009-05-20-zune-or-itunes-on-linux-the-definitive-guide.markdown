@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-05-20 18:17:46+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2009/05/zune-or-itunes-on-linux-the-definitive-guide/
 slug: zune-or-itunes-on-linux-the-definitive-guide
 title: Zune (or iTunes) on Linux - the definitive guide

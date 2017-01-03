@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2013-04-19 09:46:03+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2013/04/about-culture-overheard-on-hn/
 slug: about-culture-overheard-on-hn
 title: About Culture - overheard on HN

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-04-25 21:53:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/04/timinganalysis-why-virtual-clocks/
 slug: timinganalysis-why-virtual-clocks
 title: '[timinganalysis] Why virtual clocks?'

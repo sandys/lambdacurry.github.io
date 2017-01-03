@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2004-12-23 16:21:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2004/12/business-roi-multiple-for-startups/
 slug: business-roi-multiple-for-startups
 title: '[Business] ROI multiple for startups'

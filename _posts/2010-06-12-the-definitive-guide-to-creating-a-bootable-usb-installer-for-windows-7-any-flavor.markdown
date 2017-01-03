@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-06-12 11:54:12+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2010/06/the-definitive-guide-to-creating-a-bootable-usb-installer-for-windows-7-any-flavor/
 slug: the-definitive-guide-to-creating-a-bootable-usb-installer-for-windows-7-any-flavor
 title: The definitive guide to creating a bootable USB installer for Windows 7 (any

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-02-11 22:36:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/02/business-vcs-have-too-much-money-heres-how-to-pitch/
 slug: business-vcs-have-too-much-money-heres-how-to-pitch
 title: '[Business] VC''s have too much money ? Here''s how to pitch'

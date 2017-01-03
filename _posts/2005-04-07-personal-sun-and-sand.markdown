@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-04-07 22:25:55+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/04/personal-sun-and-sand/
 slug: personal-sun-and-sand
 title: '[Personal] Sun and sand...'

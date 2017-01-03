@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-11-18 06:03:01+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2008/11/to-get-a-wife-you-need-to-rip-a-rib/
 slug: to-get-a-wife-you-need-to-rip-a-rib
 title: To get a wife, you need to rip a rib

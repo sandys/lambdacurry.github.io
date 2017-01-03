@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-03-29 03:13:04+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2014/03/compiling-bitcoin-0-9-0-transaction-malleability-fix/
 slug: compiling-bitcoin-0-9-0-transaction-malleability-fix
 title: Compiling bitcoin 0.9.0 - the transaction malleability fix

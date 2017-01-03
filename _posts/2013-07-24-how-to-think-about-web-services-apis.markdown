@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-07-24 10:57:19+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2013/07/how-to-think-about-web-services-apis/
 slug: how-to-think-about-web-services-apis
 title: How to think about web services APIs - REST and SOAP

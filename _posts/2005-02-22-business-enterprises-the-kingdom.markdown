@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-02-22 21:25:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/02/business-enterprises-the-kingdom/
 slug: business-enterprises-the-kingdom
 title: '[Business] Enterprises: The Kingdom'

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-01-22 23:36:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/01/business-incidental-prices-software-and-degrees-of-freedom/
 slug: business-incidental-prices-software-and-degrees-of-freedom
 title: '[Business] Incidental Prices, Software and Degrees-of-Freedom'

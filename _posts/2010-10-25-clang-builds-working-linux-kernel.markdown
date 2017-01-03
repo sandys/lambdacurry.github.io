@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-10-25 16:09:10+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2010/10/clang-builds-working-linux-kernel/
 slug: clang-builds-working-linux-kernel
 title: 'Clang builds working linux kernel '

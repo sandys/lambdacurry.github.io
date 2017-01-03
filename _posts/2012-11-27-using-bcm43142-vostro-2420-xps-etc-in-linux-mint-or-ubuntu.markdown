@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2012-11-27 06:40:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2012/11/using-bcm43142-vostro-2420-xps-etc-in-linux-mint-or-ubuntu/
 slug: using-bcm43142-vostro-2420-xps-etc-in-linux-mint-or-ubuntu
 title: Using BCM43142 (Vostro 2420, XPS, etc.) in Linux Mint or Ubuntu

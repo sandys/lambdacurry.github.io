@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2007-07-28 04:16:27+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2007/07/eda-and-tyres/
 slug: eda-and-tyres
 title: EDA and tyres

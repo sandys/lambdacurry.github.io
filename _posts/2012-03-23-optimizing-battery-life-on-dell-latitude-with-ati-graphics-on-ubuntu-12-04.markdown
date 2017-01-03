@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2012-03-23 05:25:18+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2012/03/optimizing-battery-life-on-dell-latitude-with-ati-graphics-on-ubuntu-12-04/
 slug: optimizing-battery-life-on-dell-latitude-with-ati-graphics-on-ubuntu-12-04
 title: Optimizing battery life on Dell Latitude (with ATI graphics) on Ubuntu 12.04

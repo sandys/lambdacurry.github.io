@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-03-21 04:09:49+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2010/03/ubuntu-lucid-worst-ever-kde-4-4-1-slowest-ever/
 slug: ubuntu-lucid-worst-ever-kde-4-4-1-slowest-ever
 title: 'Ubuntu Lucid: worst ever, KDE 4.4.1: slowest ever'

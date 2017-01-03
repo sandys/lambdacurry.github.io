@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-09-25 19:44:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/09/prediction-markets-real-life-psychohistory/
 slug: prediction-markets-real-life-psychohistory
 title: 'Prediction markets: real life psychohistory?'

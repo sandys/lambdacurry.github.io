@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-05-13 23:03:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/05/business-recovery-from-cataclysms-and-exchange-rate-regime-any-dependence/
 slug: business-recovery-from-cataclysms-and-exchange-rate-regime-any-dependence
 title: '[Business] Recovery from cataclysms and exchange rate regime: any dependence?'

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2006-07-07 05:30:06+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2006/07/georges-question/
 slug: georges-question
 title: 'George''s Question: Of threads and cores'

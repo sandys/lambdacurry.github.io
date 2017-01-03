@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-03-18 09:53:22+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2010/03/ubuntu-brainstorms/
 slug: ubuntu-brainstorms
 title: Ubuntu brainstorms

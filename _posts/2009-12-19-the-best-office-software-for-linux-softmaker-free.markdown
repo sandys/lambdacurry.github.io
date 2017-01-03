@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-12-19 19:03:40+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2009/12/the-best-office-software-for-linux-softmaker-free/
 slug: the-best-office-software-for-linux-softmaker-free
 title: The best Office software for Linux - Softmaker - free !!!

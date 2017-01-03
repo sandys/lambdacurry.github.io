@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-06-18 15:02:09+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2010/06/script-fu-find-all-images-and-rename-them-attaching-resolution-information-to-filename/
 slug: script-fu-find-all-images-and-rename-them-attaching-resolution-information-to-filename
 title: 'script-fu: find all images and rename them, attaching resolution information

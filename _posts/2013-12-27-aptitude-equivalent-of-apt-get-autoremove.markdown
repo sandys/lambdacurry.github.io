@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-12-27 12:14:37+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2013/12/aptitude-equivalent-of-apt-get-autoremove/
 slug: aptitude-equivalent-of-apt-get-autoremove
 title: Aptitude equivalent of "apt-get autoremove"

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2007-07-29 17:24:44+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2007/07/ubergeek-linux-2622-kernel-with-wpa2-wireless-and-cfs-scheduler/
 slug: ubergeek-linux-2622-kernel-with-wpa2-wireless-and-cfs-scheduler
 title: Ubergeek - Linux 2.6.22 kernel with WPA2 wireless and CFS scheduler

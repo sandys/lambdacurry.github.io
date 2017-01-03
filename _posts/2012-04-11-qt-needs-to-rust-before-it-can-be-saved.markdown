@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2012-04-11 02:28:50+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2012/04/qt-needs-to-rust-before-it-can-be-saved/
 slug: qt-needs-to-rust-before-it-can-be-saved
 title: Qt needs to rust before it can be saved

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-10-17 19:51:22+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2010/10/swype-is-growing-more-and-more-painful-love-slideit/
 slug: swype-is-growing-more-and-more-painful-love-slideit
 title: Swype is growing more and more painful - love SlideIT and ShapeWriter (more)

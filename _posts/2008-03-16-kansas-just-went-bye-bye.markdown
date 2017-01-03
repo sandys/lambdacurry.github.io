@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-03-16 03:36:33+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2008/03/kansas-just-went-bye-bye/
 slug: kansas-just-went-bye-bye
 title: Kansas just went bye-bye

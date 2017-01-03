@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-11-17 11:58:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/11/looking-for-and-developing-leaders/
 slug: looking-for-and-developing-leaders
 title: Looking for and Developing leaders

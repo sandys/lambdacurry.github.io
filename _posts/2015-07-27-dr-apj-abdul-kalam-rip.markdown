@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2015-07-27 20:06:29+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2015/07/dr-apj-abdul-kalam-rip/
 slug: dr-apj-abdul-kalam-rip
 title: Dr APJ Abdul Kalam - RIP

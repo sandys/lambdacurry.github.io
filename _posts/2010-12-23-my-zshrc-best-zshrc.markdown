@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-12-23 07:11:04+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2010/12/my-zshrc-best-zshrc/
 slug: my-zshrc-best-zshrc
 title: My .zshrc == best zshrc ?

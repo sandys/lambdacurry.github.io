@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-06-14 19:56:06+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2008/06/of-ls-for-windows-and-good-grep-replacements-for-all-platforms/
 slug: of-ls-for-windows-and-good-grep-replacements-for-all-platforms
 title: Of "ls" for windows and good Grep replacements (for all platforms)

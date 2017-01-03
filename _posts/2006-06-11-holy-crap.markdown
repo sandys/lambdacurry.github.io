@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2006-06-11 13:53:01+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2006/06/holy-crap/
 slug: holy-crap
 title: Holy crap...

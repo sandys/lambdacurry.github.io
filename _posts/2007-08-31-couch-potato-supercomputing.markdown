@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2007-08-31 19:41:08+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2007/08/couch-potato-supercomputing/
 slug: couch-potato-supercomputing
 title: Couch Potato Supercomputing

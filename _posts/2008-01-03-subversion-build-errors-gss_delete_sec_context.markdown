@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-01-03 12:28:02+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2008/01/subversion-build-errors-gss_delete_sec_context/
 slug: subversion-build-errors-gss_delete_sec_context
 title: 'Subversion build errors: gss_delete_sec_context'

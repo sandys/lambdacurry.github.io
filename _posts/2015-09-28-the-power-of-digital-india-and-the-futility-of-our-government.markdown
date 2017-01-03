@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2015-09-28 09:03:01+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2015/09/the-power-of-digital-india-and-the-futility-of-our-government/
 slug: the-power-of-digital-india-and-the-futility-of-our-government
 title: The power of Digital India and the futility of our government

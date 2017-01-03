@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-05-23 16:01:03+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2010/05/kde-4-4-configure-it-to-look-half-decent-speedy-and-well-behaved/
 slug: kde-4-4-configure-it-to-look-half-decent-speedy-and-well-behaved
 title: KDE 4.4 - configure it to look half decent, speedy and well behaved

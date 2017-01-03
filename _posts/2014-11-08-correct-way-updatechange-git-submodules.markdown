@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-11-08 04:57:23+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2014/11/correct-way-updatechange-git-submodules/
 slug: correct-way-updatechange-git-submodules
 title: The correct way to update/change git submodules

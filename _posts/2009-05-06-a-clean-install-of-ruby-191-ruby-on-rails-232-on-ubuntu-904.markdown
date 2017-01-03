@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-05-06 04:49:44+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2009/05/a-clean-install-of-ruby-191-ruby-on-rails-232-on-ubuntu-904/
 slug: a-clean-install-of-ruby-191-ruby-on-rails-232-on-ubuntu-904
 title: A clean install of Ruby 1.9.1 + Ruby-on-Rails 2.3.2 on Ubuntu 9.04

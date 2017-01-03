@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-07-28 19:40:22+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2010/07/sandgorgons-law-of-outsourcing-analogies/
 slug: sandgorgons-law-of-outsourcing-analogies
 title: SandGorgon's law of outsourcing analogies

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-02-01 11:56:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/02/startup-iterative-entrepreneurship/
 slug: startup-iterative-entrepreneurship
 title: '[Startup] Iterative Entrepreneurship'

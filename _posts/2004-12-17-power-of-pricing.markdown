@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2004-12-17 22:00:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2004/12/power-of-pricing/
 slug: power-of-pricing
 title: Power of pricing

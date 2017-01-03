@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-09-26 07:16:55+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2008/09/distributed-eda-sharing-some-cpu-love/
 slug: distributed-eda-sharing-some-cpu-love
 title: 'Distributed EDA: sharing some CPU love'

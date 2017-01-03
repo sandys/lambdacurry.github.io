@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2006-08-08 06:15:09+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2006/08/dummies-guide-to-dvdcd-writer-on-linux/
 slug: dummies-guide-to-dvdcd-writer-on-linux
 title: Dummies Guide to DVD/CD writer on Linux

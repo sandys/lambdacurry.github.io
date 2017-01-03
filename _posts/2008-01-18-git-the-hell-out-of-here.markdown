@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-01-18 18:33:05+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2008/01/git-the-hell-out-of-here/
 slug: git-the-hell-out-of-here
 title: GIT the hell out of here

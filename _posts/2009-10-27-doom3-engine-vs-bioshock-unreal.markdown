@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-10-27 07:33:40+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2009/10/doom3-engine-vs-bioshock-unreal/
 slug: doom3-engine-vs-bioshock-unreal
 title: 'Doom3 engine vs Bioshock (unreal) '

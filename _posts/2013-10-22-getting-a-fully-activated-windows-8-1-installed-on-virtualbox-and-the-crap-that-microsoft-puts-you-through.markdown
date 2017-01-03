@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-10-22 08:11:37+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2013/10/getting-a-fully-activated-windows-8-1-installed-on-virtualbox-and-the-crap-that-microsoft-puts-you-through/
 slug: getting-a-fully-activated-windows-8-1-installed-on-virtualbox-and-the-crap-that-microsoft-puts-you-through
 title: Getting a fully activated Windows 8.1 installed on VirtualBox - and the crap

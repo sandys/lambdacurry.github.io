@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2011-12-14 19:46:14+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2011/12/goodbye-python/
 slug: goodbye-python
 title: Goodbye Python....

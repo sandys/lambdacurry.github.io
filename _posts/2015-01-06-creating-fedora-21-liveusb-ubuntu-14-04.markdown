@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2015-01-06 12:34:32+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2015/01/creating-fedora-21-liveusb-ubuntu-14-04/
 slug: creating-fedora-21-liveusb-ubuntu-14-04
 title: Creating  a Fedora 21 LiveUSB in Ubuntu 14.04

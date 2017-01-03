@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2014-11-03 06:56:59+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2014/11/the-android-art-runtime-is-a-golang-tunnel/
 slug: the-android-art-runtime-is-a-golang-tunnel
 title: The Android ART runtime is a Golang tunnel

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-12-27 04:47:58+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2010/12/death-of-nokia-and-rim/
 slug: death-of-nokia-and-rim
 title: Death of Nokia and RIM ?

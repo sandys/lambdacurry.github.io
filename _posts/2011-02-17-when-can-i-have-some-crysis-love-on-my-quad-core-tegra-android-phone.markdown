@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2011-02-17 09:41:42+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2011/02/when-can-i-have-some-crysis-love-on-my-quad-core-tegra-android-phone/
 slug: when-can-i-have-some-crysis-love-on-my-quad-core-tegra-android-phone
 title: When can I have some Crysis love on my quad-core Tegra Android phone ?

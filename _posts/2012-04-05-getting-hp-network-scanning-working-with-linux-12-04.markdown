@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2012-04-05 09:43:04+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2012/04/getting-hp-network-scanning-working-with-linux-12-04/
 slug: getting-hp-network-scanning-working-with-linux-12-04
 title: Getting HP network scanning working with Linux 12.04

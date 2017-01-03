@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-05-13 06:12:33+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2010/05/dropbox-in-kde/
 slug: dropbox-in-kde
 title: Dropbox in KDE

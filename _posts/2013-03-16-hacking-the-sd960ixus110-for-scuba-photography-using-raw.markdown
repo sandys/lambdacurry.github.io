@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2013-03-16 08:09:34+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2013/03/hacking-the-sd960ixus110-for-scuba-photography-using-raw/
 slug: hacking-the-sd960ixus110-for-scuba-photography-using-raw
 title: Hacking the SD960/IXUS110 for scuba photography (using RAW)

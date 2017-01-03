@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-10-29 20:45:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/10/you-mess-with-one-of-usyou-mess-with-all-of-us/
 slug: you-mess-with-one-of-usyou-mess-with-all-of-us
 title: You mess with one of us...you mess with all of us

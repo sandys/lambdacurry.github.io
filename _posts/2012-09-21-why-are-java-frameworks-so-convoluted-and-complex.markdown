@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2012-09-21 03:16:11+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2012/09/why-are-java-frameworks-so-convoluted-and-complex/
 slug: why-are-java-frameworks-so-convoluted-and-complex
 title: Why are Java frameworks so convoluted and complex.

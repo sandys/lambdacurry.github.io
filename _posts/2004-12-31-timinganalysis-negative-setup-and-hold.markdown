@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2004-12-31 22:08:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2004/12/timinganalysis-negative-setup-and-hold/
 slug: timinganalysis-negative-setup-and-hold
 title: '[Timinganalysis] Negative setup and hold'

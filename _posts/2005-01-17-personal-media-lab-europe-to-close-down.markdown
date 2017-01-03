@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-01-17 23:07:51+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/01/personal-media-lab-europe-to-close-down/
 slug: personal-media-lab-europe-to-close-down
 title: '[Personal] Media Lab Europe to close down...'

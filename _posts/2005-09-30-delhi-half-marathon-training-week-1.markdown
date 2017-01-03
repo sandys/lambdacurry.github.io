@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-09-30 16:53:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/09/delhi-half-marathon-training-week-1/
 slug: delhi-half-marathon-training-week-1
 title: 'Delhi Half Marathon Training: Week 1'

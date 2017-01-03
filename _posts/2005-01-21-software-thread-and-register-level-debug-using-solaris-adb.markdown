@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-01-21 20:50:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/01/software-thread-and-register-level-debug-using-solaris-adb/
 slug: software-thread-and-register-level-debug-using-solaris-adb
 title: '[Software] Thread and register level debug using Solaris adb'

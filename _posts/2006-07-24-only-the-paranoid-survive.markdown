@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2006-07-24 13:15:53+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2006/07/only-the-paranoid-survive/
 slug: only-the-paranoid-survive
 title: Only the paranoid survive?

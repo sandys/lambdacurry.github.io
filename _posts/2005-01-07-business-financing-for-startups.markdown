@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-01-07 23:33:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/01/business-financing-for-startups/
 slug: business-financing-for-startups
 title: '[Business] Financing for startups'

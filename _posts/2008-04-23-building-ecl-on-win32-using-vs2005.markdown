@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-04-23 19:15:13+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2008/04/building-ecl-on-win32-using-vs2005/
 slug: building-ecl-on-win32-using-vs2005
 title: Building ECL on Win32 using VS2005

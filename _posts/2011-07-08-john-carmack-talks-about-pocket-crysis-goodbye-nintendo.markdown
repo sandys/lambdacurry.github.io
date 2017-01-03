@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2011-07-08 06:57:19+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2011/07/john-carmack-talks-about-pocket-crysis-goodbye-nintendo/
 slug: john-carmack-talks-about-pocket-crysis-goodbye-nintendo
 title: John Carmack talks about pocket Crysis - goodbye Nintendo

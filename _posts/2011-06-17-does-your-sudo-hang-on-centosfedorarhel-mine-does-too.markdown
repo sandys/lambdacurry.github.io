@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2011-06-17 06:39:03+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2011/06/does-your-sudo-hang-on-centosfedorarhel-mine-does-too/
 slug: does-your-sudo-hang-on-centosfedorarhel-mine-does-too
 title: Does your "sudo " hang on Centos/Fedora/RHEL/Debian ? mine does too

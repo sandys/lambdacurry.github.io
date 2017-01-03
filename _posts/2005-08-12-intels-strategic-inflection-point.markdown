@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-08-12 21:11:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/08/intels-strategic-inflection-point/
 slug: intels-strategic-inflection-point
 title: Intel's strategic inflection point

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2006-06-03 16:52:48+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2006/06/saturday-night-bluespec/
 slug: saturday-night-bluespec
 title: Saturday Night Blues(pec)

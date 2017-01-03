@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-06-27 22:57:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/06/from-startup-to-sundown-comments-on-viral-marketing/
 slug: from-startup-to-sundown-comments-on-viral-marketing
 title: 'From startup to... sundown: comments on viral marketing'

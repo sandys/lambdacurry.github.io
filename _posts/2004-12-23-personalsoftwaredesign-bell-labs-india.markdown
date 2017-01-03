@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2004-12-23 23:53:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2004/12/personalsoftwaredesign-bell-labs-india/
 slug: personalsoftwaredesign-bell-labs-india
 title: '[Personal,Software,Design] Bell Labs India'

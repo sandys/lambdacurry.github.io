@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2006-11-08 06:28:47+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2006/11/0000000006-feet-under/
 slug: 0000000006-feet-under
 title: 0.000000006 feet under

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-07-18 05:17:23+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2010/07/im-doing-a-reddit-university-online-course-will-any-online-university-work/
 slug: im-doing-a-reddit-university-online-course-will-any-online-university-work
 title: 'I''m doing a Reddit University online course: will any online university work?'

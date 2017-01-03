@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2012-09-10 07:01:08+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2012/09/justification-for-release-fast-release-frequently-from-a-queuing-theory-point-of-view/
 slug: justification-for-release-fast-release-frequently-from-a-queuing-theory-point-of-view
 title: Justification for "release fast - release frequently" from a queuing theory

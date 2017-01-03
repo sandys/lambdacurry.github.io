@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-07-30 19:10:52+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2009/07/crowdsourcing-eda-manual-generation-of-test-vectors/
 slug: crowdsourcing-eda-manual-generation-of-test-vectors
 title: 'Crowdsourcing EDA: manual generation of test-vectors'

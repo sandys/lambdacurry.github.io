@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2006-09-21 18:09:27+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2006/09/the-poincare-conjecture/
 slug: the-poincare-conjecture
 title: The Poincare Conjecture

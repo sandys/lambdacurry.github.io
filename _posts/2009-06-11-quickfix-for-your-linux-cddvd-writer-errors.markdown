@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-06-11 07:32:52+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2009/06/quickfix-for-your-linux-cddvd-writer-errors/
 slug: quickfix-for-your-linux-cddvd-writer-errors
 title: Quickfix for your linux CD/DVD writer errors

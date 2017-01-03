@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-06-12 01:27:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/06/constructors-vs-function-declarationsand-koenig-lookups/
 slug: constructors-vs-function-declarationsand-koenig-lookups
 title: Constructors vs function declarations...and Koenig lookups

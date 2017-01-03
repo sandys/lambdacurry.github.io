@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-12-27 07:33:43+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2010/12/cyanogenmod-2708-radiospl-for-htc-magic-mytouch-3g-from-scratch/
 slug: cyanogenmod-2708-radiospl-for-htc-magic-mytouch-3g-from-scratch
 title: Cyanogenmod 2708+ radio/SPL for HTC Magic (Mytouch 3G) .. from scratch

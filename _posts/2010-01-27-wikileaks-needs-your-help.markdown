@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-01-27 07:28:43+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2010/01/wikileaks-needs-your-help/
 slug: wikileaks-needs-your-help
 title: Wikileaks needs your help!

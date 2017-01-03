@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2011-03-24 09:43:17+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2011/03/maven-jaxb-plugin-problems-in-your-maven-pom-xml/
 slug: maven-jaxb-plugin-problems-in-your-maven-pom-xml
 title: maven-jaxb-plugin problems in your maven pom.xml

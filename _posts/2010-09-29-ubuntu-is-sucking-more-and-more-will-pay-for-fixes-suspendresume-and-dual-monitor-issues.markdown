@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-09-29 05:08:21+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2010/09/ubuntu-is-sucking-more-and-more-will-pay-for-fixes-suspendresume-and-dual-monitor-issues/
 slug: ubuntu-is-sucking-more-and-more-will-pay-for-fixes-suspendresume-and-dual-monitor-issues
 title: 'Ubuntu is sucking more and more (will pay for fixes..) : suspend/resume and

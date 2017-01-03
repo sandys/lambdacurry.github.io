@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-12-01 20:52:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/12/the-road-ahead/
 slug: the-road-ahead
 title: The road ahead...

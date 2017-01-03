@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-10-23 18:33:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/10/when-vcs-turn-evil/
 slug: when-vcs-turn-evil
 title: When VC's turn evil

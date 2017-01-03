@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-07-30 17:08:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/07/mumbai-meri-jaan/
 slug: mumbai-meri-jaan
 title: Mumbai meri jaan

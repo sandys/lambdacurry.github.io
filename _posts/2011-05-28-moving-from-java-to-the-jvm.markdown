@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2011-05-28 07:45:16+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2011/05/moving-from-java-to-the-jvm/
 slug: moving-from-java-to-the-jvm
 title: Moving from Java to ... the JVM ?

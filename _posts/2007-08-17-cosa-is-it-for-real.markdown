@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2007-08-17 19:47:36+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2007/08/cosa-is-it-for-real/
 slug: cosa-is-it-for-real
 title: 'COSA: Is it for real?'

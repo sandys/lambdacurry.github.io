@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-01-10 22:22:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/01/business-software-developers-open-source-and-complements/
 slug: business-software-developers-open-source-and-complements
 title: '[Business, Software] Developers, Open Source and Complements'

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2013-06-17 09:49:44+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2013/06/complexity-of-clicking-on-a-map-real-estate-based-map-uxes-in-india/
 slug: complexity-of-clicking-on-a-map-real-estate-based-map-uxes-in-india
 title: Complexity of clicking on a map - real estate based map UXes in India

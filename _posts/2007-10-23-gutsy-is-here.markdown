@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2007-10-23 05:54:53+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2007/10/gutsy-is-here/
 slug: gutsy-is-here
 title: Gutsy is here!!

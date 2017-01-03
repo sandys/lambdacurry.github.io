@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-07-03 18:19:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/07/quest-for-fools-gold-india-and-the-security-council/
 slug: quest-for-fools-gold-india-and-the-security-council
 title: 'Quest for Fool''s Gold: India and the Security Council'

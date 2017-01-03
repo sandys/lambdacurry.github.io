@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-01-30 18:44:52+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2010/01/32-bit-compile-on-64-bit-ubuntu-not-finding-stdc-libs/
 slug: 32-bit-compile-on-64-bit-ubuntu-not-finding-stdc-libs
 title: 32 bit compile on 64-bit ubuntu, not finding stdc++ libs

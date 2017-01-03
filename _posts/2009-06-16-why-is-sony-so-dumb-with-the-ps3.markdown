@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-06-16 18:41:43+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2009/06/why-is-sony-so-dumb-with-the-ps3/
 slug: why-is-sony-so-dumb-with-the-ps3
 title: Why is Sony so dumb with the PS3 ??

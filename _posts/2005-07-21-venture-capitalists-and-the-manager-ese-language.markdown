@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-07-21 13:02:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/07/venture-capitalists-and-the-manager-ese-language/
 slug: venture-capitalists-and-the-manager-ese-language
 title: Venture Capitalists and the  "manager-ese" language

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-03-08 19:48:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/03/personal-im-officially-official/
 slug: personal-im-officially-official
 title: '[Personal] I''m officially official'

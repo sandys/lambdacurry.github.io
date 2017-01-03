@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-12-05 14:30:01+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2009/12/a-cheap-reliable-fileserver-with-features-similar-to-commercial-offerings/
 slug: a-cheap-reliable-fileserver-with-features-similar-to-commercial-offerings
 title: A cheap, reliable fileserver with features similar to commercial offerings

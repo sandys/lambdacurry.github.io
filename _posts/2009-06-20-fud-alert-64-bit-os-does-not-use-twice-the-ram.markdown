@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-06-20 08:32:02+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2009/06/fud-alert-64-bit-os-does-not-use-twice-the-ram/
 slug: fud-alert-64-bit-os-does-not-use-twice-the-ram
 title: FUD alert ! 64-bit OS does not use twice the RAM

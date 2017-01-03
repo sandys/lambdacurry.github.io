@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-06-30 10:17:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/06/attitudes-towards-leadership-asia-america-europe/
 slug: attitudes-towards-leadership-asia-america-europe
 title: 'Attitudes towards leadership : Asia, America Europe'

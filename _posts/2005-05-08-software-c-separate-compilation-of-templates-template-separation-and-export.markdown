@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-05-08 09:57:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/05/software-c-separate-compilation-of-templates-template-separation-and-export/
 slug: software-c-separate-compilation-of-templates-template-separation-and-export
 title: '[Software, c++] Separate compilation of templates: Template separation and

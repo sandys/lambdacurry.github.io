@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2006-06-20 18:53:18+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2006/06/opera-9-cathedral-vs-the-bazaar/
 slug: opera-9-cathedral-vs-the-bazaar
 title: 'Opera 9 : Cathedral Vs The Bazaar'

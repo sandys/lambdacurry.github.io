@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2012-05-17 04:55:29+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2012/05/focus-developers-focus/
 slug: focus-developers-focus
 title: Focus, developers... focus

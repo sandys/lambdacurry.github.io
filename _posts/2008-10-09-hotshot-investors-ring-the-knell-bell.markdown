@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-10-09 09:33:54+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2008/10/hotshot-investors-ring-the-knell-bell/
 slug: hotshot-investors-ring-the-knell-bell
 title: Hotshot investors ring the knell bell

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-03-03 20:49:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/03/eda-ibm-goes-statisticalmonte-carlo-anyone/
 slug: eda-ibm-goes-statisticalmonte-carlo-anyone
 title: '[EDA] IBM goes statistical...Monte Carlo anyone?'

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2006-09-21 17:51:36+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2006/09/and-god-saidlet-there-be/
 slug: and-god-saidlet-there-be
 title: And God said...let there be

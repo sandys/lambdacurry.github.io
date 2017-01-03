@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-06-13 12:12:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/06/people-in-eda-can-cook/
 slug: people-in-eda-can-cook
 title: People in EDA can cook!!!

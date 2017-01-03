@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2004-12-22 22:00:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2004/12/business-esop-expensing-for-corporates/
 slug: business-esop-expensing-for-corporates
 title: '[Business] ESOP expensing for corporates'

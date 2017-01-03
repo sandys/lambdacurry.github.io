@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-09-29 20:50:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/09/does-heapsort-make-more-sense-for-eda-algorithms/
 slug: does-heapsort-make-more-sense-for-eda-algorithms
 title: Does heapsort make more sense for EDA algorithms ?

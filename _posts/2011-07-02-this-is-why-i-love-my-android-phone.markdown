@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2011-07-02 12:21:51+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2011/07/this-is-why-i-love-my-android-phone/
 slug: this-is-why-i-love-my-android-phone
 title: How to reset your Android bluetooth settings without factory reset

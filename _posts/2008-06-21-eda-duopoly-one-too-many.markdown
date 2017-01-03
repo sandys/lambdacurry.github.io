@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-06-21 04:40:07+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2008/06/eda-duopoly-one-too-many/
 slug: eda-duopoly-one-too-many
 title: 'EDA Duopoly: One too many?'

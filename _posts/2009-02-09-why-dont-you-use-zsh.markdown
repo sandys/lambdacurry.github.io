@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-02-09 16:33:50+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2009/02/why-dont-you-use-zsh/
 slug: why-dont-you-use-zsh
 title: Why dont you use zsh

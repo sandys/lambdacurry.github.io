@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-03-05 12:08:45+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2009/03/wheres-the-innovation-and-show-me-the-money/
 slug: wheres-the-innovation-and-show-me-the-money
 title: Where's the innovation and Show me the money

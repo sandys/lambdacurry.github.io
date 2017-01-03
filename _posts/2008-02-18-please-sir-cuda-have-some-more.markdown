@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-02-18 13:55:39+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2008/02/please-sir-cuda-have-some-more/
 slug: please-sir-cuda-have-some-more
 title: Please sir, CUDA have some more??

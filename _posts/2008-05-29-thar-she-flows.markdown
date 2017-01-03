@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-05-29 10:01:58+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2008/05/thar-she-flows/
 slug: thar-she-flows
 title: Thar she flows!!!!

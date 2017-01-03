@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-04-16 05:38:21+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2010/04/ubuntu-10-04-kde-prevents-me-from-even-logging-in/
 slug: ubuntu-10-04-kde-prevents-me-from-even-logging-in
 title: Ubuntu 10.04 KDE prevents me from even logging in

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-04-04 20:24:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/04/business-voip-and-the-five-9s-problem/
 slug: business-voip-and-the-five-9s-problem
 title: '[Business] VOIP and the Five 9s problem'

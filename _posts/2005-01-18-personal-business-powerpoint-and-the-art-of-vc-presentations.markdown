@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-01-18 11:49:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/01/personal-business-powerpoint-and-the-art-of-vc-presentations/
 slug: personal-business-powerpoint-and-the-art-of-vc-presentations
 title: '[Personal, Business] Powerpoint and the art of VC presentations'

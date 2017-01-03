@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-04-19 09:40:25+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2010/04/is-plymouth-that-much-better-than-xsplashusplash-is-it-even-needed/
 slug: is-plymouth-that-much-better-than-xsplashusplash-is-it-even-needed
 title: Is Plymouth that much better than xsplash/usplash ? Is it even needed ?

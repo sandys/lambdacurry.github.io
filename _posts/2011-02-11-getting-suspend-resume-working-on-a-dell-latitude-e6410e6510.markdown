@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2011-02-11 07:40:29+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2011/02/getting-suspend-resume-working-on-a-dell-latitude-e6410e6510/
 slug: getting-suspend-resume-working-on-a-dell-latitude-e6410e6510
 title: Getting suspend-resume working on a Dell Latitude E6410/E6510 with Ubuntu

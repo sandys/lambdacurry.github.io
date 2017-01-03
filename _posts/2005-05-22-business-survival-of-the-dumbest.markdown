@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-05-22 22:01:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/05/business-survival-of-the-dumbest/
 slug: business-survival-of-the-dumbest
 title: '[Business] Survival of the dumbest'

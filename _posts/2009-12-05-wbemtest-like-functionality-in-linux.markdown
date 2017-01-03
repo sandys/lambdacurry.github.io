@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-12-05 18:01:42+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2009/12/wbemtest-like-functionality-in-linux/
 slug: wbemtest-like-functionality-in-linux
 title: wbemtest like functionality in Linux

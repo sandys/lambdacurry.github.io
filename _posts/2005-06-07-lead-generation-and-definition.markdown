@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-06-07 10:34:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/06/lead-generation-and-definition/
 slug: lead-generation-and-definition
 title: Lead generation and definition

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2006-03-30 16:03:33+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2006/03/now-the-future-eda-in-design/
 slug: now-the-future-eda-in-design
 title: Now & the future - EDA in design

@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2008-10-23 17:32:38+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2008/10/antivirus-shootdown/
 slug: antivirus-shootdown
 title: Antivirus shootdown

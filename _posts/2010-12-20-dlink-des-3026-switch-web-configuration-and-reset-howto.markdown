@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-12-20 06:19:50+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2010/12/dlink-des-3026-switch-web-configuration-and-reset-howto/
 slug: dlink-des-3026-switch-web-configuration-and-reset-howto
 title: DLink DES 3026 switch web configuration and reset howto

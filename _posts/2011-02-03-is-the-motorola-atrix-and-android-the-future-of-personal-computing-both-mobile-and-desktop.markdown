@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2011-02-03 08:39:49+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2011/02/is-the-motorola-atrix-and-android-the-future-of-personal-computing-both-mobile-and-desktop/
 slug: is-the-motorola-atrix-and-android-the-future-of-personal-computing-both-mobile-and-desktop
 title: Is the Motorola Atrix, (and Android) the future of personal computing - both

@@ -2,7 +2,7 @@
 author: admin
 comments: true
 date: 2013-10-13 14:24:25+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2013/10/quick-and-dirty-nosql-cheatsheet/
 slug: quick-and-dirty-nosql-cheatsheet
 title: Quick and dirty NoSQL cheatsheet

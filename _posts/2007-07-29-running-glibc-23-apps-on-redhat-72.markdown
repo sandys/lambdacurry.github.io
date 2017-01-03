@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2007-07-29 13:29:45+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2007/07/running-glibc-23-apps-on-redhat-72/
 slug: running-glibc-23-apps-on-redhat-72
 title: Running Glibc 2.3 apps on Redhat 7.2

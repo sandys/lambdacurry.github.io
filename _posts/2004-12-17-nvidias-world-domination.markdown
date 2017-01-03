@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2004-12-17 20:46:51+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2004/12/nvidias-world-domination/
 slug: nvidias-world-domination
 title: NVidia's world domination

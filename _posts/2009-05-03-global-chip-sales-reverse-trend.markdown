@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2009-05-03 04:53:23+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2009/05/global-chip-sales-reverse-trend/
 slug: global-chip-sales-reverse-trend
 title: Global chip sales reverse trend

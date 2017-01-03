@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2011-03-18 05:48:30+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2011/03/dell-inspiron-14r-and-14r-support-8gb-rather-atleast-6gb/
 slug: dell-inspiron-14r-and-14r-support-8gb-rather-atleast-6gb
 title: Dell Inspiron 14R and 14R support 8GB (rather...atleast 6GB)

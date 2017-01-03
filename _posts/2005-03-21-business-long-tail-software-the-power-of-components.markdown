@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2005-03-21 14:28:00+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2005/03/business-long-tail-software-the-power-of-components/
 slug: business-long-tail-software-the-power-of-components
 title: '[Business] Long-Tail Software - the power of components'

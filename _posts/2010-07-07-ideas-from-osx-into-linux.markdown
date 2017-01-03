@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-07-07 16:08:03+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2010/07/ideas-from-osx-into-linux/
 slug: ideas-from-osx-into-linux
 title: Ideas from OSX into Linux

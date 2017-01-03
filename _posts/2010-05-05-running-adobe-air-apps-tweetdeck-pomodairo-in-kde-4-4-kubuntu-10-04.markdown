@@ -2,7 +2,7 @@
 author: sandeep
 comments: true
 date: 2010-05-05 09:25:58+00:00
-layout: default
+layout: post
 link: http://www.lambdacurry.com/2010/05/running-adobe-air-apps-tweetdeck-pomodairo-in-kde-4-4-kubuntu-10-04/
 slug: running-adobe-air-apps-tweetdeck-pomodairo-in-kde-4-4-kubuntu-10-04
 title: Running Adobe Air apps (Tweetdeck, Pomodairo) in Kde 4.4 (Kubuntu 10.04)
