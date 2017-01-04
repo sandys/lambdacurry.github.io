@@ -9,8 +9,7 @@ title: Powershell Config
 wordpress_id: 153
 ---
 
-[sourcecode lang="powershell"]
-
+```
 # this file is at C:Documents and Settings&lt;username&gt;My DocumentsWindowsPowerShellprofile.ps1
 
 $Host.Ui.RawUi.BackGroundColor = "Black"
@@ -25,5 +24,4 @@ $newPath = "C:Program FilesMicrosoft Visual Studio 9.0VCbin;" +$oldPath + ";"+ "
 $env:LS_OPTIONS = "-bhAC --more --color=auto --recent --streams"
 set-alias ls "C:WINDOWSsystem32ls.exe" -option allscope
 set-content Env:Path $newPath;
-
-[/sourcecode]
+```

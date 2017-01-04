@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: LambdaCurry 
-email: your-email@domain.com
+email: http://scr.im/lambdacurry  
 description: > # this means to ignore newlines until "baseurl:"
   Tech. Product. Enterpreneurship
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.lambdacurry.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: sandGorgon1 
+github_username:  sandys
 paginate:            15
 paginate_path: '/posts/:num'
 show_downloads: false
@@ -32,6 +32,8 @@ theme: minima
 #theme: jekyll-theme-leap-day
 #theme: jekyll-theme-tactile
 #theme: jekyll-theme-modernist
+
+pages: ./_pages
 
 disqus:
   shortname: lambdacurry

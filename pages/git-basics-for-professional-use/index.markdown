@@ -9,4 +9,4 @@ title: git basics for professional use
 wordpress_id: 831
 ---
 
-https://gist.github.com/sandys/3282255
+{% gist sandys/3282255%}

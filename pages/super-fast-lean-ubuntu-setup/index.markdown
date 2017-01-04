@@ -15,4 +15,5 @@ Most importantly, this will replace _**Unity**_** **with _**Gnome**_** Shell 
 
 This setup should take less than 400 mb RAM on startup.
 
-https://gist.github.com/sandys/6030823
+
+{% gist sandys/6030823%}
