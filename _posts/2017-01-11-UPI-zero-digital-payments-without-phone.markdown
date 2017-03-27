@@ -2,7 +2,7 @@
 author: admin
 comments: true
 layout: post
-title: UPI Zero - Digital Payments without Cash 
+title: UPI Zero - Digital Payments without Phone 
 ---
 
 
